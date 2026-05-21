@@ -1,0 +1,78 @@
+{
+  "act": "Transfer of Property Act, 1882",
+  "short_title": "TPA",
+  "year": 1882,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "5",
+      "title": "Transfer of property defined",
+      "content": "In the following sections 'transfer of property' means an act by which a living person conveys property, in present or in future, to one or more other living persons, or to himself, or to himself and one or more other living persons; and 'to transfer property' is to perform such act. In this section 'living person' includes a company or association or body of individuals, whether incorporated or not.",
+      "citations": [],
+      "keywords": ["transfer of property", "conveyance", "living person"]
+    },
+    {
+      "number": "6",
+      "title": "What may be transferred",
+      "content": "Property of any kind may be transferred, except as otherwise provided by this Act or by any other law for the time being in force. The chance of an heir-apparent succeeding to an estate, the chance of a relation obtaining a legacy on the death of a kinsman, or any other mere possibility of a like nature cannot be transferred. A mere right to sue cannot be transferred. A public office cannot be transferred, nor can the salary of a public officer, whether before or after it has become payable.",
+      "citations": [],
+      "keywords": ["spes successionis", "mere right to sue", "transferable"]
+    },
+    {
+      "number": "39",
+      "title": "Transfer where third person is entitled to maintenance",
+      "content": "Where a third person has a right to receive maintenance, or a provision for advancement or marriage, from the profits of immoveable property, and such property is transferred, the right may be enforced against the transferee, if he has notice thereof or if the transfer is gratuitous; but not against a transferee for consideration and without notice of the right, nor against such property in his hands.",
+      "citations": [],
+      "keywords": ["maintenance", "transferee with notice", "immoveable property"]
+    },
+    {
+      "number": "52",
+      "title": "Transfer of property pending suit relating thereto",
+      "content": "During the pendency in any Court of any suit or proceeding which is not collusive and in which any right to immoveable property is directly and specifically in question, the property cannot be transferred or otherwise dealt with by any party to the suit or proceeding so as to affect the rights of any other party thereto under any decree or order which may be made therein, except under the authority of the Court and on such terms as it may impose. This is the doctrine of lis pendens.",
+      "citations": [],
+      "keywords": ["lis pendens", "pending suit", "doctrine of lis pendens"]
+    },
+    {
+      "number": "53",
+      "title": "Fraudulent transfer",
+      "content": "Every transfer of immoveable property made with intent to defeat or delay the creditors of the transferor shall be voidable at the option of any creditor so defeated or delayed. A suit instituted by a creditor to avoid a transfer on the ground that it has been made with intent to defeat or delay the creditors of the transferor shall be instituted on behalf of, or for the benefit of, all the creditors.",
+      "citations": [],
+      "keywords": ["fraudulent transfer", "defrauding creditors", "voidable"]
+    },
+    {
+      "number": "53A",
+      "title": "Part performance",
+      "content": "Where any person contracts to transfer for consideration any immoveable property by writing signed by him or on his behalf from which the terms necessary to constitute the transfer can be ascertained with reasonable certainty, and the transferee has, in part performance of the contract, taken possession of the property or any part thereof, or the transferee, being already in possession, continues in possession in part performance of the contract and has done some act in furtherance of the contract, and the transferee has performed or is willing to perform his part of the contract, then, notwithstanding that the contract, though required to be registered, has not been registered, or, where there is an instrument of transfer, that the transfer has not been completed in the manner prescribed therefor by the law for the time being in force, the transferor or any person claiming under him shall be debarred from enforcing against the transferee and persons claiming under him any right in respect of the property of which the transferee has taken or continued in possession, other than a right expressly provided by the terms of the contract.",
+      "citations": [],
+      "keywords": ["part performance", "doctrine of part performance", "agreement to sell"]
+    },
+    {
+      "number": "54",
+      "title": "Sale defined; sale how made",
+      "content": "'Sale' is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised. Such transfer, in the case of tangible immoveable property of the value of one hundred rupees and upwards, or in the case of a reversion or other intangible thing, can be made only by a registered instrument. In the case of tangible immoveable property of a value less than one hundred rupees, such transfer may be made either by a registered instrument or by delivery of the property. A contract for the sale of immoveable property is a contract that a sale of such property shall take place on terms settled between the parties. It does not, of itself, create any interest in or charge on such property.",
+      "citations": [],
+      "keywords": ["sale", "sale deed", "contract for sale", "registration"]
+    },
+    {
+      "number": "105",
+      "title": "Lease defined",
+      "content": "A lease of immoveable property is a transfer of a right to enjoy such property, made for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value, to be rendered periodically or on specified occasions to the transferor by the transferee, who accepts the transfer on such terms.",
+      "citations": [],
+      "keywords": ["lease", "rent", "lessor", "lessee", "tenancy"]
+    },
+    {
+      "number": "106",
+      "title": "Duration of certain leases in absence of written contract or local usage",
+      "content": "In the absence of a contract or local law or usage to the contrary, a lease of immoveable property for agricultural or manufacturing purposes shall be deemed to be a lease from year to year, terminable, on the part of either lessor or lessee, by six months' notice; and a lease of immoveable property for any other purpose shall be deemed to be a lease from month to month, terminable, on the part of either lessor or lessee, by fifteen days' notice.",
+      "citations": [],
+      "keywords": ["lease termination", "notice to quit", "monthly tenancy"]
+    },
+    {
+      "number": "108",
+      "title": "Rights and liabilities of lessor and lessee",
+      "content": "In the absence of a contract or local usage to the contrary, the lessor and the lessee of immoveable property, as against one another, have rights and liabilities including: the lessor is bound to disclose to the lessee any material defect in the property; the lessor is bound to put the lessee in possession of the property; the lessor shall be deemed to contract with the lessee that he has a good title; the lessee is bound to pay the rent at the proper times and places; the lessee is bound to keep, and on the termination of the lease to restore, the property in as good condition as it was at the time when he was put in possession.",
+      "citations": [],
+      "keywords": ["lessor lessee rights", "rights of tenant", "landlord duties"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local secrets
+.env
+
+# Runtime artifacts
+uploads/
+app/data/chroma/

@@ -1,0 +1,64 @@
+{
+  "act": "Trade Marks Act, 1999",
+  "short_title": "Trade Marks Act",
+  "year": 1999,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "2",
+      "title": "Definitions — trade mark, well-known trade mark, deceptively similar",
+      "content": "'Trade mark' means a mark capable of being represented graphically and which is capable of distinguishing the goods or services of one person from those of others and may include shape of goods, their packaging and combination of colours. 'Well-known trade mark', in relation to any goods or services, means a mark which has become so to the substantial segment of the public which uses such goods or receives such services that the use of such mark in relation to other goods or services would be likely to be taken as indicating a connection in the course of trade or rendering of services between those goods or services and a person using the mark in relation to the first-mentioned goods or services. 'Deceptively similar' means a mark which so nearly resembles another mark as to be likely to deceive or cause confusion.",
+      "citations": [],
+      "keywords": ["trade mark", "well-known mark", "deceptively similar", "definitions"]
+    },
+    {
+      "number": "9",
+      "title": "Absolute grounds for refusal of registration",
+      "content": "The trade marks which are devoid of any distinctive character, that is to say, not capable of distinguishing the goods or services of one person from those of another person; which consist exclusively of marks or indications which may serve in trade to designate the kind, quality, quantity, intended purpose, values, geographical origin or the time of production of the goods or rendering of the service or other characteristics of the goods or service; or which consist exclusively of marks or indications which have become customary in the current language or in the bona fide and established practices of the trade, shall not be registered: Provided that a trade mark shall not be refused registration if before the date of application for registration it has acquired a distinctive character as a result of the use made of it or is a well-known trade mark.",
+      "citations": [],
+      "keywords": ["absolute grounds", "distinctive character", "refusal"]
+    },
+    {
+      "number": "11",
+      "title": "Relative grounds for refusal of registration",
+      "content": "Save as provided in section 12, a trade mark shall not be registered if, because of its identity with an earlier trade mark and similarity of goods or services covered by the trade mark; or its similarity to an earlier trade mark and the identity or similarity of the goods or services covered by the trade mark, there exists a likelihood of confusion on the part of the public, which includes the likelihood of association with the earlier trade mark.",
+      "citations": [],
+      "keywords": ["relative grounds", "earlier mark", "likelihood of confusion"]
+    },
+    {
+      "number": "18",
+      "title": "Application for registration",
+      "content": "Any person claiming to be the proprietor of a trade mark used or proposed to be used by him, who is desirous of registering it, shall apply in writing to the Registrar in the prescribed manner for the registration of his trade mark. A single application may be made for registration of a trade mark for different classes of goods and services and fee payable therefor shall be in respect of each such class of goods or services.",
+      "citations": [],
+      "keywords": ["application", "registration", "proprietor"]
+    },
+    {
+      "number": "28",
+      "title": "Rights conferred by registration",
+      "content": "Subject to the other provisions of this Act, the registration of a trade mark shall, if valid, give to the registered proprietor of the trade mark the exclusive right to the use of the trade mark in relation to the goods or services in respect of which the trade mark is registered and to obtain relief in respect of infringement of the trade mark in the manner provided by this Act.",
+      "citations": [],
+      "keywords": ["exclusive right", "registered proprietor", "registration benefits"]
+    },
+    {
+      "number": "29",
+      "title": "Infringement of registered trade marks",
+      "content": "A registered trade mark is infringed by a person who, not being a registered proprietor or a person using by way of permitted use, uses in the course of trade, a mark which is identical with, or deceptively similar to, the trade mark in relation to goods or services in respect of which the trade mark is registered and in such manner as to render the use of the mark likely to be taken as being used as a trade mark. A registered trade mark is also infringed by a person who uses a mark identical with or similar to the trade mark in relation to goods or services which are not similar to those for which the trade mark is registered, where the trade mark has a reputation in India.",
+      "citations": ["Cadila Health Care Ltd. v. Cadila Pharmaceuticals Ltd., (2001) 5 SCC 73"],
+      "keywords": ["infringement", "deceptively similar", "passing off", "trademark infringement"]
+    },
+    {
+      "number": "30",
+      "title": "Limits on effect of registered trade mark",
+      "content": "Nothing in section 29 shall be construed as preventing the use of a registered trade mark by any person for the purposes of identifying goods or services as those of the proprietor provided the use is in accordance with honest practices in industrial or commercial matters, and is not such as to take unfair advantage of or be detrimental to the distinctive character or repute of the trade mark; and a registered trade mark is not infringed where it is used to indicate the kind, quality, quantity, intended purpose, value, geographical origin, time of production or other characteristics of the goods or services.",
+      "citations": [],
+      "keywords": ["honest use", "limits", "fair use trademark"]
+    },
+    {
+      "number": "47",
+      "title": "Removal from register and imposition of limitations on ground of non-use",
+      "content": "A registered trade mark may be taken off the register in respect of the goods or services in respect of which it is registered on application made in the prescribed manner to the Registrar or the High Court by any person aggrieved on the ground that the trade mark was registered without any bona fide intention on the part of the applicant for registration that it should be used in relation to those goods or services by him, and that there has, in fact, been no bona fide use of the trade mark in relation to those goods or services by any proprietor thereof for the time being up to a date three months before the date of the application; or that up to a date three months before the date of the application, a continuous period of five years from the date on which the trade mark is actually entered in the register or longer had elapsed during which the trade mark was registered and during which there was no bona fide use thereof in relation to those goods or services by any proprietor thereof for the time being.",
+      "citations": [],
+      "keywords": ["non-use", "removal", "rectification", "five years"]
+    }
+  ]
+}

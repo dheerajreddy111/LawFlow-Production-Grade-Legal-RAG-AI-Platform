@@ -1,0 +1,71 @@
+{
+  "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "short_title": "BNSS",
+  "year": 2023,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "35",
+      "title": "When police may arrest without warrant",
+      "content": "Any police officer may, without an order from a Magistrate and without a warrant, arrest any person who commits, in his presence, a cognizable offence; against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence punishable with imprisonment which may extend to seven years, subject to recorded reasons. The officer shall record reasons in writing.",
+      "citations": ["Arnesh Kumar v. State of Bihar, (2014) 8 SCC 273"],
+      "keywords": ["arrest without warrant", "cognizable offence", "BNSS arrest", "Section 35"]
+    },
+    {
+      "number": "47",
+      "title": "Person arrested to be informed of grounds of arrest and of right to bail",
+      "content": "Every police officer or other person arresting any person without warrant shall forthwith communicate to him full particulars of the offence for which he is arrested or other grounds for such arrest. Where a police officer arrests without warrant any person other than a person accused of a non-bailable offence, he shall inform the person arrested that he is entitled to be released on bail.",
+      "citations": ["D.K. Basu v. State of West Bengal, AIR 1997 SC 610"],
+      "keywords": ["grounds of arrest", "right to bail", "rights of arrested person"]
+    },
+    {
+      "number": "58",
+      "title": "Person arrested not to be detained more than twenty-four hours",
+      "content": "No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.",
+      "citations": [],
+      "keywords": ["24 hours", "production before magistrate", "remand period"]
+    },
+    {
+      "number": "173",
+      "title": "Information in cognizable cases (FIR)",
+      "content": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; every such information, whether given in writing or reduced to writing, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer. A copy of the information as recorded shall be given forthwith, free of cost, to the informant. The BNSS also allows electronic filing of FIR.",
+      "citations": ["Lalita Kumari v. Government of UP, (2014) 2 SCC 1"],
+      "keywords": ["FIR", "first information report", "e-FIR", "BNSS Section 173", "zero FIR"]
+    },
+    {
+      "number": "187",
+      "title": "Procedure when investigation cannot be completed in twenty-four hours",
+      "content": "Whenever any person is arrested and detained in custody, and it appears that the investigation cannot be completed within twenty-four hours, the officer shall transmit a copy of the case diary entries to the nearest Judicial Magistrate and forward the accused. The Magistrate may authorise detention for a term not exceeding fifteen days. Total custodial detention shall not exceed ninety days where the offence is punishable with death, imprisonment for life, or imprisonment for not less than ten years; and sixty days in any other case. On expiry, the accused person shall be released on bail.",
+      "citations": [],
+      "keywords": ["default bail", "police custody", "judicial custody", "90 days", "60 days", "BNSS remand"]
+    },
+    {
+      "number": "193",
+      "title": "Report of police officer on completion of investigation",
+      "content": "Every investigation under this Chapter shall be completed without unnecessary delay. As soon as it is completed, the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence on a police report, a report in the form prescribed, stating the names of the parties, the nature of the information, the names of the persons who appear to be acquainted with the circumstances of the case, whether any offence appears to have been committed and, if so, by whom.",
+      "citations": [],
+      "keywords": ["charge sheet", "police report", "final report", "BNSS Section 193"]
+    },
+    {
+      "number": "480",
+      "title": "When bail may be taken in case of non-bailable offence",
+      "content": "When any person accused of any non-bailable offence is arrested or detained without warrant or appears or is brought before a Court other than the High Court or Court of Session, he may be released on bail, but he shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life. The Court may release on bail any person who is under the age of sixteen years or is a woman or is sick or infirm.",
+      "citations": [],
+      "keywords": ["bail BNSS", "regular bail", "non-bailable"]
+    },
+    {
+      "number": "482",
+      "title": "Direction for grant of bail to person apprehending arrest",
+      "content": "When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail. The court may consider the nature and gravity of the accusation and the antecedents of the applicant.",
+      "citations": ["Sushila Aggarwal v. State (NCT of Delhi), (2020) 5 SCC 1"],
+      "keywords": ["anticipatory bail", "pre-arrest bail", "BNSS 482"]
+    },
+    {
+      "number": "528",
+      "title": "Saving of inherent powers of High Court",
+      "content": "Nothing in this Sanhita shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Sanhita, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+      "citations": ["State of Haryana v. Bhajan Lal, 1992 Supp (1) SCC 335"],
+      "keywords": ["inherent powers", "quashing", "FIR quashing", "BNSS 528"]
+    }
+  ]
+}

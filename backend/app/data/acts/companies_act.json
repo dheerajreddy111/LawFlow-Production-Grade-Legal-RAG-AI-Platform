@@ -1,0 +1,85 @@
+{
+  "act": "Companies Act, 2013",
+  "short_title": "Companies Act",
+  "year": 2013,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "2",
+      "title": "Definitions — company, director, related party",
+      "content": "In this Act, unless the context otherwise requires, 'company' means a company incorporated under this Act or under any previous company law; 'director' means a director appointed to the Board of a company; 'related party', with reference to a company, means a director or his relative, a key managerial personnel or his relative, a firm in which a director, manager or his relative is a partner, a private company in which a director or manager or his relative is a member or director, a public company in which a director or manager is a director and holds along with his relatives, more than two per cent of its paid-up share capital.",
+      "citations": [],
+      "keywords": ["definitions", "company", "director", "related party"]
+    },
+    {
+      "number": "3",
+      "title": "Formation of company",
+      "content": "A company may be formed for any lawful purpose by seven or more persons, where the company to be formed is to be a public company; two or more persons, where the company to be formed is to be a private company; or one person, where the company to be formed is to be One Person Company that is to say, a private company, by subscribing their names or his name to a memorandum and complying with the requirements of this Act in respect of registration.",
+      "citations": [],
+      "keywords": ["formation", "incorporation", "OPC", "one person company"]
+    },
+    {
+      "number": "7",
+      "title": "Incorporation of company",
+      "content": "There shall be filed with the Registrar within whose jurisdiction the registered office of a company is proposed to be situated, the following documents and information for registration, namely: the memorandum and articles of the company duly signed by all the subscribers to the memorandum; a declaration in the prescribed form by an advocate, a chartered accountant, cost accountant or company secretary in practice; an affidavit from each of the subscribers to the memorandum and from persons named as the first directors; the address for correspondence till its registered office is established; the particulars of name, including surname or family name, residential address, nationality and such other particulars of every subscriber.",
+      "citations": [],
+      "keywords": ["incorporation procedure", "registration", "RoC"]
+    },
+    {
+      "number": "21",
+      "title": "Authentication of documents, proceedings and contracts",
+      "content": "Save as otherwise provided in this Act, a document or proceeding requiring authentication by a company, or contracts made by or on behalf of a company, may be signed by any key managerial personnel or an officer or employee of the company duly authorised by the Board in this behalf.",
+      "citations": [],
+      "keywords": ["authentication", "signed contracts", "KMP"]
+    },
+    {
+      "number": "73",
+      "title": "Prohibition on acceptance of deposits from public",
+      "content": "On and from the commencement of this Act, no company shall invite, accept or renew deposits under this Act from the public except in a manner provided under this Chapter. The Central Government, in consultation with the Reserve Bank of India, may exempt certain companies from the operation of this section.",
+      "citations": [],
+      "keywords": ["deposits", "public deposits", "prohibition"]
+    },
+    {
+      "number": "149",
+      "title": "Company to have Board of Directors",
+      "content": "Every company shall have a Board of Directors consisting of individuals as directors and shall have a minimum number of three directors in the case of a public company, two directors in the case of a private company, and one director in the case of a One Person Company. A maximum of fifteen directors may be appointed. Every listed public company shall have at least one-third of the total number of directors as independent directors. Every company shall have at least one woman director.",
+      "citations": [],
+      "keywords": ["Board of Directors", "minimum directors", "independent director", "woman director"]
+    },
+    {
+      "number": "166",
+      "title": "Duties of directors",
+      "content": "Subject to the provisions of this Act, a director of a company shall act in accordance with the articles of the company. A director of a company shall act in good faith in order to promote the objects of the company for the benefit of its members as a whole, and in the best interests of the company, its employees, the shareholders, the community and for the protection of environment. A director of a company shall exercise his duties with due and reasonable care, skill and diligence and shall exercise independent judgment. A director of a company shall not involve in a situation in which he may have a direct or indirect interest that conflicts, or possibly may conflict, with the interest of the company. A director of a company shall not achieve or attempt to achieve any undue gain or advantage either to himself or to his relatives, partners, or associates. A director of a company shall not assign his office and any assignment so made shall be void.",
+      "citations": [],
+      "keywords": ["director duties", "fiduciary duties", "conflict of interest"]
+    },
+    {
+      "number": "184",
+      "title": "Disclosure of interest by director",
+      "content": "Every director shall at the first meeting of the Board in which he participates as a director and thereafter at the first meeting of the Board in every financial year or whenever there is any change in the disclosures already made, then at the first Board meeting held after such change, disclose his concern or interest in any company or companies or bodies corporate, firms, or other association of individuals which shall include the shareholding, in such manner as may be prescribed.",
+      "citations": [],
+      "keywords": ["disclosure of interest", "director interest", "MBP-1"]
+    },
+    {
+      "number": "188",
+      "title": "Related party transactions",
+      "content": "Except with the consent of the Board of Directors given by a resolution at a meeting of the Board, and subject to such conditions as may be prescribed, no company shall enter into any contract or arrangement with a related party with respect to sale, purchase or supply of any goods or materials; selling or otherwise disposing of, or buying, property of any kind; leasing of property of any kind; availing or rendering of any services; appointment of any agent for purchase or sale of goods, materials, services or property; such related party's appointment to any office or place of profit in the company, its subsidiary company or associate company; underwriting the subscription of any securities or derivatives.",
+      "citations": [],
+      "keywords": ["RPT", "related party transactions", "board approval"]
+    },
+    {
+      "number": "197",
+      "title": "Overall maximum managerial remuneration",
+      "content": "The total managerial remuneration payable by a public company, to its directors, including managing director and whole-time director, and its manager in respect of any financial year shall not exceed eleven per cent of the net profits of that company for that financial year computed in the manner laid down in section 198 except that the remuneration of the directors shall not be deducted from the gross profits.",
+      "citations": [],
+      "keywords": ["managerial remuneration", "11 percent", "director remuneration"]
+    },
+    {
+      "number": "447",
+      "title": "Punishment for fraud",
+      "content": "Without prejudice to any liability including repayment of any debt under this Act or any other law for the time being in force, any person who is found to be guilty of fraud involving an amount of at least ten lakh rupees or one per cent of the turnover of the company, whichever is lower, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to ten years and shall also be liable to fine which shall not be less than the amount involved in the fraud, but which may extend to three times the amount involved in the fraud.",
+      "citations": [],
+      "keywords": ["corporate fraud", "punishment for fraud", "Section 447"]
+    }
+  ]
+}

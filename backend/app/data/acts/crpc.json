@@ -1,0 +1,141 @@
+{
+  "act": "Code of Criminal Procedure, 1973",
+  "short_title": "CrPC",
+  "year": 1973,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "41",
+      "title": "When police may arrest without warrant",
+      "content": "Any police officer may without an order from a Magistrate and without a warrant, arrest any person who commits, in the presence of a police officer, a cognizable offence; against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years, subject to recorded reasons for arrest under section 41(1)(b)(ii). The police officer shall record reasons in writing for making, or not making, the arrest.",
+      "citations": ["Arnesh Kumar v. State of Bihar, (2014) 8 SCC 273"],
+      "keywords": ["arrest without warrant", "cognizable offence", "police arrest", "Arnesh Kumar"]
+    },
+    {
+      "number": "41A",
+      "title": "Notice of appearance before police officer",
+      "content": "The police officer shall, in all cases where the arrest of a person is not required under the provisions of sub-section (1) of section 41, issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence, to appear before him or at such other place as may be specified in the notice. Where such notice is issued to any person, it shall be the duty of that person to comply with the terms of the notice.",
+      "citations": ["Arnesh Kumar v. State of Bihar, (2014) 8 SCC 273"],
+      "keywords": ["notice of appearance", "41A notice", "Arnesh Kumar"]
+    },
+    {
+      "number": "50",
+      "title": "Person arrested to be informed of grounds of arrest and of right to bail",
+      "content": "Every police officer or other person arresting any person without warrant shall forthwith communicate to him full particulars of the offence for which he is arrested or other grounds for such arrest. Where a police officer arrests without warrant any person other than a person accused of a non-bailable offence, he shall inform the person arrested that he is entitled to be released on bail.",
+      "citations": ["D.K. Basu v. State of West Bengal, AIR 1997 SC 610"],
+      "keywords": ["grounds of arrest", "right to bail", "rights of arrested person"]
+    },
+    {
+      "number": "57",
+      "title": "Person arrested not to be detained more than twenty-four hours",
+      "content": "No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 167, exceed twenty-four hours, exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.",
+      "citations": [],
+      "keywords": ["24 hours", "production before magistrate", "remand"]
+    },
+    {
+      "number": "154",
+      "title": "Information in cognizable cases",
+      "content": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe. A copy of the information as recorded under sub-section (1) shall be given forthwith, free of cost, to the informant.",
+      "citations": ["Lalita Kumari v. Government of Uttar Pradesh, (2014) 2 SCC 1"],
+      "keywords": ["FIR", "first information report", "cognizable offence", "Lalita Kumari", "zero FIR"]
+    },
+    {
+      "number": "156",
+      "title": "Police officer's power to investigate cognizable case",
+      "content": "Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of Chapter XIII. Any Magistrate empowered under section 190 may order such an investigation.",
+      "citations": [],
+      "keywords": ["investigation", "cognizable case", "police investigation", "156(3) order"]
+    },
+    {
+      "number": "161",
+      "title": "Examination of witnesses by police",
+      "content": "Any police officer making an investigation under this Chapter, or any police officer not below such rank as the State Government may, by general or special order, prescribe in this behalf, acting on the requisition of such officer, may examine orally any person supposed to be acquainted with the facts and circumstances of the case. Such person shall be bound to answer truly all questions relating to such case put to him by such officer, other than questions the answers to which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture.",
+      "citations": [],
+      "keywords": ["witness examination", "police statement", "section 161 statement"]
+    },
+    {
+      "number": "164",
+      "title": "Recording of confessions and statements",
+      "content": "Any Metropolitan Magistrate or Judicial Magistrate may, whether or not he has jurisdiction in the case, record any confession or statement made to him in the course of an investigation under this Chapter or under any other law for the time being in force, or at any time afterwards before the commencement of the inquiry or trial. The Magistrate shall, before recording any such confession, explain to the person making it that he is not bound to make a confession and that, if he does so, it may be used as evidence against him.",
+      "citations": [],
+      "keywords": ["confession", "magisterial confession", "164 statement", "voluntary confession"]
+    },
+    {
+      "number": "167",
+      "title": "Procedure when investigation cannot be completed in twenty-four hours",
+      "content": "Whenever any person is arrested and detained in custody, and it appears that the investigation cannot be completed within the period of twenty-four hours fixed by section 57, the officer in charge of the police station or the police officer making the investigation shall forthwith transmit to the nearest Judicial Magistrate a copy of the entries in the diary, and shall at the same time forward the accused to such Magistrate. The Magistrate may authorise detention in custody as he thinks fit, for a term not exceeding fifteen days in the whole; and no Magistrate shall authorise the detention beyond ninety days in case of an offence punishable with death, imprisonment for life or imprisonment for not less than ten years, and sixty days in any other case. On the expiry of such period the accused person shall be released on bail.",
+      "citations": ["Bikramjit Singh v. State of Punjab, (2020) 10 SCC 616"],
+      "keywords": ["default bail", "remand", "police custody", "judicial custody", "90 days", "60 days"]
+    },
+    {
+      "number": "173",
+      "title": "Report of police officer on completion of investigation",
+      "content": "Every investigation under this Chapter shall be completed without unnecessary delay. As soon as it is completed, the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence on a police report, a report in the form prescribed by the State Government, stating the names of the parties, the nature of the information, the names of the persons who appear to be acquainted with the circumstances of the case, whether any offence appears to have been committed and, if so, by whom, whether the accused has been arrested, and whether he has been released on his bond.",
+      "citations": [],
+      "keywords": ["charge sheet", "police report", "final report", "completion of investigation"]
+    },
+    {
+      "number": "190",
+      "title": "Cognizance of offences by Magistrates",
+      "content": "Any Magistrate of the first class, and any Magistrate of the second class specially empowered in this behalf, may take cognizance of any offence upon receiving a complaint of facts which constitute such offence; upon a police report of such facts; upon information received from any person other than a police officer, or upon his own knowledge, that such offence has been committed.",
+      "citations": [],
+      "keywords": ["cognizance", "magistrate", "complaint", "police report"]
+    },
+    {
+      "number": "200",
+      "title": "Examination of complainant",
+      "content": "A Magistrate taking cognizance of an offence on complaint shall examine upon oath the complainant and the witnesses present, if any, and the substance of such examination shall be reduced to writing and shall be signed by the complainant and the witnesses, and also by the Magistrate.",
+      "citations": [],
+      "keywords": ["private complaint", "complainant examination"]
+    },
+    {
+      "number": "313",
+      "title": "Power to examine the accused",
+      "content": "In every inquiry or trial, for the purpose of enabling the accused personally to explain any circumstances appearing in the evidence against him, the Court may at any stage, without previously warning the accused, put such questions to him as the Court considers necessary, and shall, after the witnesses for the prosecution have been examined and before he is called on for his defence, question him generally on the case.",
+      "citations": [],
+      "keywords": ["accused examination", "section 313", "questions to accused"]
+    },
+    {
+      "number": "320",
+      "title": "Compounding of offences",
+      "content": "The offences punishable under the sections of the Indian Penal Code specified in the first two columns of the Table next following may be compounded by the persons mentioned in the third column of that Table. The offences punishable under the sections of the Indian Penal Code specified in the first two columns of the Table next following may, with the permission of the Court before which any prosecution for such offence is pending, be compounded by the persons mentioned in the third column of that Table.",
+      "citations": [],
+      "keywords": ["compounding", "settlement of offence", "compoundable offence"]
+    },
+    {
+      "number": "357",
+      "title": "Order to pay compensation",
+      "content": "When a Court imposes a sentence of fine or a sentence (including a sentence of death) of which fine forms a part, the Court may, when passing judgment, order the whole or any part of the fine recovered to be applied in defraying the expenses properly incurred in the prosecution, in the payment to any person of compensation for any loss or injury caused by the offence, in the payment of compensation to persons who are, under the Fatal Accidents Act, 1855, entitled to recover damages, or when any person is convicted of any offence which includes theft, criminal misappropriation, criminal breach of trust, or cheating, or of having dishonestly received or retained, or of having voluntarily assisted in disposing of, stolen property knowing or having reason to believe the same to be stolen, in compensating any bona fide purchaser of such property for the loss of the same if such property is restored to the possession of the person entitled thereto.",
+      "citations": [],
+      "keywords": ["victim compensation", "compensation order", "section 357"]
+    },
+    {
+      "number": "437",
+      "title": "When bail may be taken in case of non-bailable offence",
+      "content": "When any person accused of, or suspected of, the commission of any non-bailable offence is arrested or detained without warrant by an officer in charge of a police station or appears or is brought before a Court other than the High Court or Court of Session, he may be released on bail, but such person shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life. The Court may release on bail any person who is under the age of sixteen years or is a woman or is sick or infirm, despite the apparent commission of such an offence.",
+      "citations": [],
+      "keywords": ["bail", "non-bailable offence", "regular bail"]
+    },
+    {
+      "number": "438",
+      "title": "Direction for grant of bail to person apprehending arrest",
+      "content": "When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail. The Court may consider the nature and gravity of the accusation, the antecedents of the applicant including whether he has previously undergone imprisonment on conviction by a Court in respect of any cognizable offence, the possibility of the applicant to flee from justice, and where the accusation has been made with the object of injuring or humiliating the applicant by having him so arrested.",
+      "citations": ["Sushila Aggarwal v. State (NCT of Delhi), (2020) 5 SCC 1"],
+      "keywords": ["anticipatory bail", "pre-arrest bail", "section 438"]
+    },
+    {
+      "number": "439",
+      "title": "Special powers of High Court or Court of Session regarding bail",
+      "content": "A High Court or Court of Session may direct that any person accused of an offence and in custody be released on bail, and if the offence is of the nature specified in sub-section (3) of section 437, may impose any condition which it considers necessary for the purposes mentioned in that sub-section. A High Court or Court of Session may also direct that any condition imposed by a Magistrate when releasing any person on bail be set aside or modified.",
+      "citations": [],
+      "keywords": ["High Court bail", "Sessions Court bail", "439 bail"]
+    },
+    {
+      "number": "482",
+      "title": "Saving of inherent powers of High Court",
+      "content": "Nothing in this Code shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+      "citations": ["State of Haryana v. Bhajan Lal, 1992 Supp (1) SCC 335"],
+      "keywords": ["inherent powers", "quashing", "FIR quashing", "482 petition", "abuse of process"]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "act": "Bharatiya Nyaya Sanhita, 2023",
+  "short_title": "BNS",
+  "year": 2023,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "3",
+      "title": "General explanations",
+      "content": "Throughout this Sanhita, every expression which is explained in any part of this Sanhita is used in every part of this Sanhita in conformity with the explanation. Such explanations include the doctrine of common intention, which provides that when a criminal act is done by several persons in furtherance of the common intention of all, each is liable as if it were done by him alone.",
+      "citations": [],
+      "keywords": ["common intention", "general explanations"]
+    },
+    {
+      "number": "61",
+      "title": "Criminal conspiracy",
+      "content": "When two or more persons agree with the common object to do, or cause to be done, an illegal act, or an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy. Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards shall be punished in the same manner as if he had abetted such offence.",
+      "citations": [],
+      "keywords": ["criminal conspiracy", "agreement", "illegal act"]
+    },
+    {
+      "number": "63",
+      "title": "Rape",
+      "content": "A man is said to commit rape if he has sexual intercourse with a woman against her will, without her consent, with consent obtained by putting her in fear of death or hurt, with consent given by a person of unsound mind or under intoxication, when she is under eighteen years of age, or when she is unable to communicate consent. The definition substantially carries forward Section 375 of the Indian Penal Code with updated procedural framing.",
+      "citations": [],
+      "keywords": ["rape", "sexual assault", "consent"]
+    },
+    {
+      "number": "64",
+      "title": "Punishment for rape",
+      "content": "Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. For aggravated cases including custodial rape, gang rape, or rape of women under sixteen, the punishment is rigorous imprisonment for not less than twenty years which may extend to life imprisonment for the remainder of natural life, and fine.",
+      "citations": [],
+      "keywords": ["rape punishment", "aggravated rape", "gang rape"]
+    },
+    {
+      "number": "69",
+      "title": "Sexual intercourse by employing deceitful means",
+      "content": "Whoever, by deceitful means or making by promise to marry to a woman without any intention of fulfilling the same, has sexual intercourse with her, such sexual intercourse not amounting to the offence of rape, shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["deceitful means", "false promise of marriage"]
+    },
+    {
+      "number": "80",
+      "title": "Dowry death",
+      "content": "Where the death of a woman is caused by burns or bodily injury or occurs otherwise than under normal circumstances within seven years of marriage, and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or his relative for, or in connection with, any demand for dowry, such death shall be called 'dowry death'. Such husband or relative shall be punished with imprisonment for a term not less than seven years which may extend to imprisonment for life.",
+      "citations": [],
+      "keywords": ["dowry death", "dowry", "cruelty", "harassment"]
+    },
+    {
+      "number": "101",
+      "title": "Murder",
+      "content": "Culpable homicide is murder if the act by which the death is caused is done with the intention of causing death, or with the intention of causing such bodily injury as the offender knows to be likely to cause the death, or with the intention of causing bodily injury sufficient in the ordinary course of nature to cause death, or with knowledge that the act is so imminently dangerous that it must in all probability cause death.",
+      "citations": [],
+      "keywords": ["murder", "culpable homicide", "intention"]
+    },
+    {
+      "number": "103",
+      "title": "Punishment for murder",
+      "content": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine. The BNS provision replaces Section 302 of the IPC and the substantive elements are unchanged from the previous Code.",
+      "citations": [],
+      "keywords": ["murder punishment", "death penalty", "302 IPC equivalent"]
+    },
+    {
+      "number": "106",
+      "title": "Causing death by negligence",
+      "content": "Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide shall be punished with imprisonment of either description for a term which may extend to five years and shall also be liable to fine. If such act is by a registered medical practitioner while performing medical procedure, lesser punishment is provided.",
+      "citations": [],
+      "keywords": ["negligent death", "rash act", "death by negligence", "drunk driving"]
+    },
+    {
+      "number": "108",
+      "title": "Abetment of suicide",
+      "content": "If any person commits suicide, whoever abets the commission of such suicide shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["abetment of suicide", "suicide"]
+    },
+    {
+      "number": "117",
+      "title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+      "content": "Whoever, except in the case provided for by section 122, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["grievous hurt", "dangerous weapon", "acid attack"]
+    },
+    {
+      "number": "303",
+      "title": "Theft",
+      "content": "Whoever intends to take dishonestly any movable property out of the possession of any person without that person's consent, and moves that property in order to such taking, is said to commit theft. The provision replaces Section 378 IPC with identical substance.",
+      "citations": [],
+      "keywords": ["theft", "stealing", "movable property"]
+    },
+    {
+      "number": "318",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "content": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["cheating", "fraud", "online fraud", "420 IPC equivalent"]
+    },
+    {
+      "number": "356",
+      "title": "Defamation",
+      "content": "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes in any manner, any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said to defame that person. Punishment is simple imprisonment up to two years, or fine, or community service, or all three.",
+      "citations": [],
+      "keywords": ["defamation", "libel", "slander", "reputation"]
+    },
+    {
+      "number": "152",
+      "title": "Act endangering sovereignty, unity and integrity of India",
+      "content": "Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial means, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment which may extend to seven years, and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["sovereignty offence", "sedition replacement", "secession"]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "act": "Information Technology Act, 2000",
+  "short_title": "IT Act",
+  "year": 2000,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "43",
+      "title": "Penalty and compensation for damage to computer, computer system",
+      "content": "If any person, without permission of the owner or any other person who is in charge of a computer, computer system or computer network, accesses or secures access to such computer, computer system or computer network or computer resource; or downloads, copies or extracts any data, computer data base or information; or introduces or causes to be introduced any computer contaminant or computer virus; or damages or causes to be damaged any computer, computer system or computer network, data, computer data base or any other programmes; or disrupts or causes disruption of any computer, computer system or computer network, he shall be liable to pay damages by way of compensation to the person so affected.",
+      "citations": [],
+      "keywords": ["unauthorised access", "computer damage", "data theft", "virus", "computer contaminant", "civil penalty"]
+    },
+    {
+      "number": "43A",
+      "title": "Compensation for failure to protect data",
+      "content": "Where a body corporate, possessing, dealing or handling any sensitive personal data or information in a computer resource which it owns, controls or operates, is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate shall be liable to pay damages by way of compensation to the person so affected.",
+      "citations": [],
+      "keywords": ["data protection", "sensitive personal data", "SPDI", "body corporate", "data breach"]
+    },
+    {
+      "number": "65",
+      "title": "Tampering with computer source documents",
+      "content": "Whoever knowingly or intentionally conceals, destroys or alters or intentionally or knowingly causes another to conceal, destroy, or alter any computer source code used for a computer, computer programme, computer system or computer network, when the computer source code is required to be kept or maintained by law for the time being in force, shall be punishable with imprisonment up to three years, or with fine which may extend to two lakh rupees, or with both.",
+      "citations": [],
+      "keywords": ["source code", "tampering", "concealment", "computer source documents"]
+    },
+    {
+      "number": "66",
+      "title": "Computer related offences",
+      "content": "If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both.",
+      "citations": [],
+      "keywords": ["hacking", "unauthorised access", "dishonest", "fraudulent", "criminal offence"]
+    },
+    {
+      "number": "66B",
+      "title": "Punishment for dishonestly receiving stolen computer resource or communication device",
+      "content": "Whoever dishonestly receives or retains any stolen computer resource or communication device knowing or having reason to believe the same to be stolen computer resource or communication device, shall be punished with imprisonment of either description for a term which may extend to three years or with fine which may extend to rupees one lakh or with both.",
+      "citations": [],
+      "keywords": ["stolen computer", "stolen device", "receiving stolen goods"]
+    },
+    {
+      "number": "66C",
+      "title": "Punishment for identity theft",
+      "content": "Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh.",
+      "citations": [],
+      "keywords": ["identity theft", "electronic signature", "password theft", "fraud"]
+    },
+    {
+      "number": "66D",
+      "title": "Punishment for cheating by personation by using computer resource",
+      "content": "Whoever, by means of any communication device or computer resource cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.",
+      "citations": [],
+      "keywords": ["online fraud", "personation", "phishing", "impersonation", "cheating online"]
+    },
+    {
+      "number": "66E",
+      "title": "Punishment for violation of privacy",
+      "content": "Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of any person without his or her consent, under circumstances violating the privacy of that person, shall be punished with imprisonment which may extend to three years or with fine not exceeding two lakh rupees, or with both.",
+      "citations": [],
+      "keywords": ["privacy violation", "image", "voyeurism", "non-consensual"]
+    },
+    {
+      "number": "66F",
+      "title": "Punishment for cyber terrorism",
+      "content": "Whoever, with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people, denies or causes the denial of access to any person authorised to access computer resource; or attempts to penetrate or access a computer resource without authorisation; or introduces or causes to introduce any computer contaminant, and by means of such conduct causes or is likely to cause death or injuries to persons or damage to or destruction of property, commits the offence of cyber terrorism. Whoever commits or conspires to commit cyber terrorism shall be punishable with imprisonment which may extend to imprisonment for life.",
+      "citations": [],
+      "keywords": ["cyber terrorism", "national security", "life imprisonment"]
+    },
+    {
+      "number": "67",
+      "title": "Punishment for publishing or transmitting obscene material in electronic form",
+      "content": "Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely to read, see or hear the matter contained or embodied in it, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years and with fine which may extend to five lakh rupees and in the event of a second or subsequent conviction with imprisonment of either description for a term which may extend to five years and also with fine which may extend to ten lakh rupees.",
+      "citations": [],
+      "keywords": ["obscene material", "online obscenity", "prurient", "lascivious"]
+    },
+    {
+      "number": "67A",
+      "title": "Punishment for publishing or transmitting sexually explicit material in electronic form",
+      "content": "Whoever publishes or transmits or causes to be published or transmitted in the electronic form any material which contains sexually explicit act or conduct shall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with fine which may extend to ten lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and also with fine which may extend to ten lakh rupees.",
+      "citations": [],
+      "keywords": ["sexually explicit", "online", "pornography"]
+    },
+    {
+      "number": "67B",
+      "title": "Punishment for publishing or transmitting of material depicting children in sexually explicit act in electronic form",
+      "content": "Whoever publishes or transmits or causes to be published or transmitted material in any electronic form which depicts children engaged in sexually explicit act or conduct, or creates text or digital images, collects, seeks, browses, downloads, advertises, promotes, exchanges or distributes material in any electronic form depicting children in obscene or indecent or sexually explicit manner, shall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with a fine which may extend to ten lakh rupees, and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and with a fine which may extend to ten lakh rupees.",
+      "citations": [],
+      "keywords": ["child pornography", "CSAM", "POCSO IT"]
+    },
+    {
+      "number": "69",
+      "title": "Powers to issue directions for interception or monitoring or decryption of any information through any computer resource",
+      "content": "Where the Central Government or a State Government or any of its officers specially authorised by the Central Government or the State Government, is satisfied that it is necessary or expedient to do in the interest of the sovereignty or integrity of India, defence of India, security of the State, friendly relations with foreign States or public order or for preventing incitement to the commission of any cognizable offence relating to above or for investigation of any offence, it may, subject to the provisions of sub-section (2), for reasons to be recorded in writing, by order, direct any agency of the appropriate Government to intercept, monitor or decrypt or cause to be intercepted or monitored or decrypted any information generated, transmitted, received or stored in any computer resource.",
+      "citations": ["PUCL v. Union of India, (1997) 1 SCC 301"],
+      "keywords": ["interception", "monitoring", "decryption", "surveillance"]
+    },
+    {
+      "number": "69A",
+      "title": "Power to issue directions for blocking for public access of any information through any computer resource",
+      "content": "Where the Central Government or any of its officers specially authorised by it in this behalf is satisfied that it is necessary or expedient to do in the interest of sovereignty and integrity of India, defence of India, security of the State, friendly relations with foreign States or public order or for preventing incitement to the commission of any cognizable offence relating to above, it may subject to the provisions of sub-section (2), for reasons to be recorded in writing, by order, direct any agency of the Government or intermediary to block for access by the public or cause to be blocked for access by the public any information generated, transmitted, received, stored or hosted in any computer resource.",
+      "citations": ["Shreya Singhal v. Union of India, (2015) 5 SCC 1"],
+      "keywords": ["website blocking", "content blocking", "blocking orders"]
+    },
+    {
+      "number": "70",
+      "title": "Protected system",
+      "content": "The appropriate Government may, by notification in the Official Gazette, declare any computer resource which directly or indirectly affects the facility of Critical Information Infrastructure, to be a protected system. Any person who secures access or attempts to secure access to a protected system in contravention of the provisions of this section shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["critical infrastructure", "protected system", "CII"]
+    },
+    {
+      "number": "72",
+      "title": "Penalty for breach of confidentiality and privacy",
+      "content": "Save as otherwise provided in this Act or any other law for the time being in force, any person who, in pursuance of any of the powers conferred under this Act, rules or regulations made thereunder, has secured access to any electronic record, book, register, correspondence, information, document or other material without the consent of the person concerned discloses such electronic record, book, register, correspondence, information, document or other material to any other person shall be punished with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both.",
+      "citations": [],
+      "keywords": ["confidentiality", "privacy breach", "unauthorised disclosure"]
+    },
+    {
+      "number": "75",
+      "title": "Act to apply for offence or contravention committed outside India",
+      "content": "Subject to the provisions of sub-section (2), the provisions of this Act shall apply also to any offence or contravention committed outside India by any person irrespective of his nationality. For the purposes of sub-section (1), this Act shall apply to an offence or contravention committed outside India by any person if the act or conduct constituting the offence or contravention involves a computer, computer system or computer network located in India.",
+      "citations": [],
+      "keywords": ["extraterritorial", "outside India", "jurisdiction"]
+    },
+    {
+      "number": "79",
+      "title": "Exemption from liability of intermediary in certain cases",
+      "content": "Notwithstanding anything contained in any law for the time being in force but subject to the provisions of sub-sections (2) and (3), an intermediary shall not be liable for any third party information, data, or communication link made available or hosted by him. The provisions shall apply if the function of the intermediary is limited to providing access to a communication system, the intermediary does not initiate the transmission, select the receiver, or select or modify the information, and the intermediary observes due diligence. The exemption shall not apply if the intermediary has conspired or abetted in the commission of the unlawful act, or upon receiving actual knowledge or notification fails to expeditiously remove or disable access to the material.",
+      "citations": ["Shreya Singhal v. Union of India, (2015) 5 SCC 1"],
+      "keywords": ["intermediary liability", "safe harbour", "due diligence", "section 79", "platform liability"]
+    },
+    {
+      "number": "84B",
+      "title": "Punishment for abetment of offences",
+      "content": "Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Act for the punishment of such abetment, be punished with the punishment provided for the offence under this Act.",
+      "citations": [],
+      "keywords": ["abetment", "abettor"]
+    },
+    {
+      "number": "85",
+      "title": "Offences by companies",
+      "content": "Where a person committing a contravention of any of the provisions of this Act or of any rule, direction or order made thereunder is a company, every person who, at the time the contravention was committed, was in charge of, and was responsible to, the company for the conduct of business of the company as well as the company, shall be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.",
+      "citations": [],
+      "keywords": ["company offence", "vicarious liability", "director liability"]
+    }
+  ]
+}

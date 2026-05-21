@@ -1,0 +1,78 @@
+{
+  "act": "Protection of Women from Domestic Violence Act, 2005",
+  "short_title": "PWDVA",
+  "year": 2005,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "2",
+      "title": "Definitions — aggrieved person, domestic relationship, shared household",
+      "content": "'Aggrieved person' means any woman who is, or has been, in a domestic relationship with the respondent and who alleges to have been subjected to any act of domestic violence by the respondent. 'Domestic relationship' means a relationship between two persons who live or have, at any point of time, lived together in a shared household, when they are related by consanguinity, marriage, or through a relationship in the nature of marriage, adoption or are family members living together as a joint family. 'Shared household' means a household where the person aggrieved lives or at any stage has lived in a domestic relationship either singly or along with the respondent, and includes such a household whether owned or tenanted either jointly by the aggrieved person and the respondent, or owned or tenanted by either of them in respect of which either the aggrieved person or the respondent or both jointly or singly have any right, title, interest or equity.",
+      "citations": ["S.R. Batra v. Taruna Batra, (2007) 3 SCC 169", "Satish Chander Ahuja v. Sneha Ahuja, (2020) SCC OnLine SC 841"],
+      "keywords": ["aggrieved person", "domestic relationship", "shared household", "definitions"]
+    },
+    {
+      "number": "3",
+      "title": "Definition of domestic violence",
+      "content": "For the purposes of this Act, any act, omission or commission or conduct of the respondent shall constitute domestic violence in case it harms or injures or endangers the health, safety, life, limb or well-being, whether mental or physical, of the aggrieved person or tends to do so and includes causing physical abuse, sexual abuse, verbal and emotional abuse and economic abuse; or harasses, harms, injures or endangers the aggrieved person with a view to coerce her or any other person related to her to meet any unlawful demand for any dowry or other property or valuable security; or has the effect of threatening the aggrieved person or any person related to her by any conduct mentioned above; or otherwise injures or causes harm, whether physical or mental, to the aggrieved person.",
+      "citations": [],
+      "keywords": ["domestic violence", "physical abuse", "sexual abuse", "emotional abuse", "economic abuse"]
+    },
+    {
+      "number": "12",
+      "title": "Application to Magistrate",
+      "content": "An aggrieved person or a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act. Before passing any order on such application, the Magistrate shall take into consideration any domestic incident report received by him from the Protection Officer or the service provider. The Magistrate shall fix the first date of hearing, which shall not ordinarily be beyond three days from the date of receipt of the application by the court. The Magistrate shall endeavour to dispose of every application made under sub-section (1) within a period of sixty days from the date of its first hearing.",
+      "citations": [],
+      "keywords": ["application", "Magistrate", "60 days", "Section 12"]
+    },
+    {
+      "number": "17",
+      "title": "Right to reside in a shared household",
+      "content": "Notwithstanding anything contained in any other law for the time being in force, every woman in a domestic relationship shall have the right to reside in the shared household, whether or not she has any right, title or beneficial interest in the same. The aggrieved person shall not be evicted or excluded from the shared household or any part of it by the respondent save in accordance with the procedure established by law.",
+      "citations": [],
+      "keywords": ["right to reside", "shared household", "eviction"]
+    },
+    {
+      "number": "18",
+      "title": "Protection orders",
+      "content": "The Magistrate may, after giving the aggrieved person and the respondent an opportunity of being heard and on being prima facie satisfied that domestic violence has taken place or is likely to take place, pass a protection order in favour of the aggrieved person and prohibit the respondent from committing any act of domestic violence; aiding or abetting in the commission of acts of domestic violence; entering the place of employment of the aggrieved person or, if the person aggrieved is a child, its school or any other place frequented by the aggrieved person; attempting to communicate in any form including personal, oral or written or electronic or telephonic contact; alienating any assets, operating bank lockers or bank accounts used or held or enjoyed by both the parties or singly by the respondent including her stridhan or any other property held either jointly by the parties or separately by them without the leave of the Magistrate; causing violence to the dependents, other relatives or any person who give the aggrieved person assistance from domestic violence.",
+      "citations": [],
+      "keywords": ["protection order", "no contact", "Section 18"]
+    },
+    {
+      "number": "19",
+      "title": "Residence orders",
+      "content": "While disposing of an application under sub-section (1) of section 12, the Magistrate may, on being satisfied that domestic violence has taken place, pass a residence order restraining the respondent from dispossessing or in any other manner disturbing the possession of the aggrieved person from the shared household, whether or not the respondent has a legal or equitable interest in the shared household; directing the respondent to remove himself from the shared household; restraining the respondent or any of his relatives from entering any portion of the shared household in which the aggrieved person resides; restraining the respondent from alienating or disposing off the shared household or encumbering the same; restraining the respondent from renouncing his rights in the shared household; directing the respondent to secure same level of alternate accommodation for the aggrieved person as enjoyed by her in the shared household.",
+      "citations": [],
+      "keywords": ["residence order", "shared household", "Section 19"]
+    },
+    {
+      "number": "20",
+      "title": "Monetary reliefs",
+      "content": "While disposing of an application under sub-section (1) of section 12, the Magistrate may direct the respondent to pay monetary relief to meet the expenses incurred and losses suffered by the aggrieved person and any child of the aggrieved person as a result of the domestic violence including loss of earnings; the medical expenses; the loss caused due to the destruction, damage or removal of any property from the control of the aggrieved person; and the maintenance for the aggrieved person as well as her children, if any, including an order under or in addition to an order of maintenance under section 125 of the Code of Criminal Procedure, 1973.",
+      "citations": [],
+      "keywords": ["monetary relief", "maintenance", "compensation"]
+    },
+    {
+      "number": "21",
+      "title": "Custody orders",
+      "content": "Notwithstanding anything contained in any other law for the time being in force, the Magistrate may, at any stage of hearing of the application for protection order or for any other relief under this Act grant temporary custody of any child or children to the aggrieved person or the person making an application on her behalf and specify, if necessary, the arrangements for visit of such child or children by the respondent.",
+      "citations": [],
+      "keywords": ["custody", "child custody", "temporary custody"]
+    },
+    {
+      "number": "22",
+      "title": "Compensation orders",
+      "content": "In addition to other reliefs as may be granted under this Act, the Magistrate may on an application being made by the aggrieved person, pass an order directing the respondent to pay compensation and damages for the injuries, including mental torture and emotional distress, caused by the acts of domestic violence committed by that respondent.",
+      "citations": [],
+      "keywords": ["compensation", "damages", "mental torture"]
+    },
+    {
+      "number": "31",
+      "title": "Penalty for breach of protection order by respondent",
+      "content": "A breach of protection order, or of an interim protection order, by the respondent shall be an offence under this Act and shall be punishable with imprisonment of either description for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both. The offence under sub-section (1) shall as far as practicable be tried by the Magistrate who had passed the order, the breach of which has been alleged to have been caused by the accused. While framing charges under sub-section (1), the Magistrate may also frame charges under section 498A of the Indian Penal Code or any other provision of that Code, as the case may be, if the facts disclose the commission of an offence under those provisions.",
+      "citations": [],
+      "keywords": ["breach of protection order", "penalty", "Section 31"]
+    }
+  ]
+}

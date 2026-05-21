@@ -1,0 +1,71 @@
+{
+  "act": "Copyright Act, 1957",
+  "short_title": "Copyright Act",
+  "year": 1957,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "13",
+      "title": "Works in which copyright subsists",
+      "content": "Subject to the provisions of this section and the other provisions of this Act, copyright shall subsist throughout India in the following classes of works, that is to say: original literary, dramatic, musical and artistic works; cinematograph films; and sound recording. Copyright shall not subsist in any work other than under the protection conferred by the Berne Convention for the Protection of Literary and Artistic Works.",
+      "citations": [],
+      "keywords": ["copyright", "works", "subsistence", "literary", "musical", "cinematograph"]
+    },
+    {
+      "number": "14",
+      "title": "Meaning of copyright",
+      "content": "For the purposes of this Act, 'copyright' means the exclusive right subject to the provisions of this Act, to do or authorise the doing of any of the following acts in respect of a work or any substantial part thereof, namely: in the case of a literary, dramatic or musical work, not being a computer programme, to reproduce the work; to issue copies of the work to the public; to perform the work in public, or communicate it to the public; to make any cinematograph film or sound recording in respect of the work; to make any translation of the work; to make any adaptation of the work; in the case of computer programme, to do any of the acts specified above; in the case of an artistic work, to reproduce the work; to communicate the work to the public; to make any adaptation; in the case of a cinematograph film, to make a copy; to sell or give on commercial rental; in the case of a sound recording, to make any other sound recording embodying it.",
+      "citations": [],
+      "keywords": ["exclusive rights", "reproduction", "communication to public", "adaptation"]
+    },
+    {
+      "number": "17",
+      "title": "First owner of copyright",
+      "content": "Subject to the provisions of this Act, the author of a work shall be the first owner of the copyright therein. In the case of a literary, dramatic or artistic work made by the author in the course of his employment by the proprietor of a newspaper, magazine or similar periodical under a contract of service or apprenticeship, for the purpose of publication in a newspaper, magazine or similar periodical, the said proprietor shall, in the absence of any agreement to the contrary, be the first owner of the copyright in the work in so far as the copyright relates to the publication of the work. In the case of work made in the course of the author's employment under a contract of service or apprenticeship, the employer shall, in the absence of any agreement to the contrary, be the first owner of the copyright therein.",
+      "citations": [],
+      "keywords": ["first owner", "author", "employment", "work for hire"]
+    },
+    {
+      "number": "22",
+      "title": "Term of copyright in published literary, dramatic, musical and artistic works",
+      "content": "Except as otherwise provided by this Act, copyright shall subsist in any literary, dramatic, musical or artistic work (other than a photograph) published within the lifetime of the author until sixty years from the beginning of the calendar year next following the year in which the author dies.",
+      "citations": [],
+      "keywords": ["term", "duration", "60 years", "lifetime plus 60"]
+    },
+    {
+      "number": "51",
+      "title": "When copyright infringed",
+      "content": "Copyright in a work shall be deemed to be infringed when any person, without a licence granted by the owner of the copyright or the Registrar of Copyrights under this Act or in contravention of the conditions of a licence so granted or of any condition imposed by a competent authority under this Act, does anything, the exclusive right to do which is by this Act conferred upon the owner of the copyright; or permits for profit any place to be used for the communication of the work to the public where such communication constitutes an infringement of the copyright in the work; or makes for sale or hire, or sells or lets for hire, or by way of trade displays or offers for sale or hire, or distributes either for the purpose of trade or to such an extent as to affect prejudicially the owner of the copyright, or by way of trade exhibits in public, or imports into India any infringing copies of the work.",
+      "citations": [],
+      "keywords": ["infringement", "infringing copies", "without licence"]
+    },
+    {
+      "number": "52",
+      "title": "Certain acts not to be infringement of copyright",
+      "content": "The following acts shall not constitute an infringement of copyright, namely: a fair dealing with a literary, dramatic, musical or artistic work, not being a computer programme, for the purposes of private and personal use, including research; criticism or review, whether of that work or of any other work; the reporting of current events and current affairs, including the reporting of a lecture delivered in public. Performance in the course of educational activities, and certain uses by educational institutions are also exempted.",
+      "citations": [],
+      "keywords": ["fair dealing", "fair use", "exceptions", "criticism", "review"]
+    },
+    {
+      "number": "57",
+      "title": "Author's special rights",
+      "content": "Independently of the author's copyright and even after the assignment either wholly or partially of the said copyright, the author of a work shall have the right to claim authorship of the work; and to restrain or claim damages in respect of any distortion, mutilation, modification or other act in relation to the said work which is done before the expiration of the term of copyright if such distortion, mutilation, modification or other act would be prejudicial to his honour or reputation.",
+      "citations": ["Amar Nath Sehgal v. Union of India, 117 (2005) DLT 717"],
+      "keywords": ["moral rights", "paternity right", "integrity right"]
+    },
+    {
+      "number": "63",
+      "title": "Offence of infringement of copyright or other rights conferred by this Act",
+      "content": "Any person who knowingly infringes or abets the infringement of the copyright in a work or any other right conferred by this Act except the right conferred by section 53A, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to three years and with fine which shall not be less than fifty thousand rupees but which may extend to two lakh rupees.",
+      "citations": ["Knit Pro International v. State of NCT of Delhi, (2022) SCC OnLine SC 668"],
+      "keywords": ["copyright offence", "criminal infringement", "Section 63"]
+    },
+    {
+      "number": "65",
+      "title": "Possession of plates for purpose of making infringing copies",
+      "content": "Any person who knowingly makes, or has in his possession, any plate for the purpose of making infringing copies of any work in which copyright subsists shall be punishable with imprisonment which may extend to two years and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["plates", "infringing copies", "possession"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# pre-commit config for LawFlow.
+#
+# Install with:
+#   pip install pre-commit
+#   pre-commit install
+#
+# The secret scanner runs on every commit and blocks any file that
+# contains a real-looking API key. See scripts/scan_secrets.py for the
+# detection rules and the placeholder-allowlist for .env.example.
+#
+# Intentionally minimal — formatting / linting belong in editor +
+# CI, not in pre-commit hooks (those slow the inner loop). Secret
+# leaks, however, are *expensive* to undo, so the cost-benefit there is
+# very different.
+
+repos:
+  - repo: local
+    hooks:
+      - id: lawflow-scan-secrets
+        name: lawflow scan_secrets.py
+        entry: python scripts/scan_secrets.py
+        language: system
+        # Run on staged files (default). Pass --all to audit the tree.
+        pass_filenames: true
+        stages: [commit]

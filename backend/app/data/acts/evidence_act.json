@@ -1,0 +1,120 @@
+{
+  "act": "Indian Evidence Act, 1872",
+  "short_title": "Evidence Act",
+  "year": 1872,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "3",
+      "title": "Interpretation clause — definitions of evidence",
+      "content": "In this Act, the following words and expressions are used in the following senses: 'evidence' means and includes all statements which the Court permits or requires to be made before it by witnesses in relation to matters of fact under inquiry (oral evidence), and all documents including electronic records produced for the inspection of the Court (documentary evidence). 'Document' includes any writing, printing, lithography, photography, or any electronic record.",
+      "citations": [],
+      "keywords": ["definition", "evidence", "oral evidence", "documentary evidence", "electronic record"]
+    },
+    {
+      "number": "8",
+      "title": "Motive, preparation and previous or subsequent conduct",
+      "content": "Any fact is relevant which shows or constitutes a motive or preparation for any fact in issue or relevant fact. The conduct of any party, or of any agent to any party, to any suit or proceeding, in reference to such suit or proceeding, or in reference to any fact in issue therein or relevant thereto, and the conduct of any person an offence against whom is the subject of any proceeding, is relevant, if such conduct influences or is influenced by any fact in issue or relevant fact, and whether it was previous or subsequent thereto.",
+      "citations": [],
+      "keywords": ["motive", "preparation", "conduct", "circumstantial evidence"]
+    },
+    {
+      "number": "17",
+      "title": "Admission defined",
+      "content": "An admission is a statement, oral or documentary, or contained in electronic form, which suggests any inference as to any fact in issue or relevant fact, and which is made by any of the persons, and under the circumstances, hereinafter mentioned.",
+      "citations": [],
+      "keywords": ["admission", "statement", "documentary admission"]
+    },
+    {
+      "number": "24",
+      "title": "Confession caused by inducement, threat or promise, when irrelevant in criminal proceeding",
+      "content": "A confession made by an accused person is irrelevant in a criminal proceeding, if the making of the confession appears to the Court to have been caused by any inducement, threat or promise having reference to the charge against the accused person, proceeding from a person in authority, and sufficient, in the opinion of the Court, to give the accused person grounds, which would appear to him reasonable, for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.",
+      "citations": [],
+      "keywords": ["confession", "inducement", "threat", "promise", "coerced confession"]
+    },
+    {
+      "number": "25",
+      "title": "Confession to police officer not to be proved",
+      "content": "No confession made to a police officer shall be proved as against a person accused of any offence.",
+      "citations": ["Aghnoo Nagesia v. State of Bihar, AIR 1966 SC 119"],
+      "keywords": ["confession to police", "police confession", "inadmissible"]
+    },
+    {
+      "number": "26",
+      "title": "Confession by accused while in custody of police not to be proved against him",
+      "content": "No confession made by any person whilst he is in the custody of a police officer, unless it be made in the immediate presence of a Magistrate, shall be proved as against such person. The bar applies to all confessions during police custody other than those recorded under Section 164 CrPC by a Magistrate.",
+      "citations": [],
+      "keywords": ["custodial confession", "police custody", "magistrate", "164 statement"]
+    },
+    {
+      "number": "27",
+      "title": "How much of information received from accused may be proved",
+      "content": "Provided that, when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved.",
+      "citations": ["Pulukuri Kottaya v. Emperor, AIR 1947 PC 67"],
+      "keywords": ["discovery statement", "section 27", "Pulukuri Kottaya"]
+    },
+    {
+      "number": "32",
+      "title": "Cases in which statement of relevant fact by person who is dead or cannot be found is relevant",
+      "content": "Statements, written or verbal, of relevant facts made by a person who is dead, or who cannot be found, or who has become incapable of giving evidence, or whose attendance cannot be procured without an amount of delay or expense which, under the circumstances of the case, appears to the Court unreasonable, are themselves relevant facts in the cases enumerated, including dying declarations.",
+      "citations": ["Pakala Narayana Swami v. Emperor, AIR 1939 PC 47"],
+      "keywords": ["dying declaration", "deceased person statement", "section 32"]
+    },
+    {
+      "number": "45",
+      "title": "Opinions of experts",
+      "content": "When the Court has to form an opinion upon a point of foreign law, or of science, or art, or as to identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions, are relevant facts. Such persons are called experts.",
+      "citations": [],
+      "keywords": ["expert opinion", "handwriting", "fingerprint", "forensic"]
+    },
+    {
+      "number": "60",
+      "title": "Oral evidence must be direct",
+      "content": "Oral evidence must, in all cases whatever, be direct; that is to say, if it refers to a fact which could be seen, it must be the evidence of a witness who says he saw it; if it refers to a fact which could be heard, it must be the evidence of a witness who says he heard it; if it refers to a fact which could be perceived by any other sense or in any other manner, it must be the evidence of a witness who says he perceived it by that sense or in that manner.",
+      "citations": [],
+      "keywords": ["oral evidence", "direct evidence", "hearsay"]
+    },
+    {
+      "number": "65A",
+      "title": "Special provisions as to evidence relating to electronic record",
+      "content": "The contents of electronic records may be proved in accordance with the provisions of section 65B.",
+      "citations": [],
+      "keywords": ["electronic record", "digital evidence"]
+    },
+    {
+      "number": "65B",
+      "title": "Admissibility of electronic records",
+      "content": "Notwithstanding anything contained in this Act, any information contained in an electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic media produced by a computer (hereinafter referred to as the computer output) shall be deemed to be also a document, if the conditions mentioned in this section are satisfied. The conditions include that the computer output was produced during the period over which the computer was used regularly; the information was regularly fed into the computer in the ordinary course of its activities; the computer was operating properly throughout the material part of that period; and the information contained in the electronic record reproduces or is derived from such information. A certificate identifying the electronic record containing the statement and describing the manner in which it was produced shall be evidence of any matter stated in the certificate.",
+      "citations": ["Anvar P.V. v. P.K. Basheer, (2014) 10 SCC 473", "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal, (2020) 7 SCC 1"],
+      "keywords": ["65B certificate", "electronic evidence", "digital evidence", "Anvar v Basheer", "WhatsApp evidence", "screenshot"]
+    },
+    {
+      "number": "101",
+      "title": "Burden of proof",
+      "content": "Whoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts, must prove that those facts exist. When a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.",
+      "citations": [],
+      "keywords": ["burden of proof", "onus probandi"]
+    },
+    {
+      "number": "114",
+      "title": "Court may presume existence of certain facts",
+      "content": "The Court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct and public and private business, in their relation to the facts of the particular case. The Court may presume, for example, that a man who is in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen.",
+      "citations": [],
+      "keywords": ["presumption", "circumstantial evidence", "stolen goods"]
+    },
+    {
+      "number": "133",
+      "title": "Accomplice",
+      "content": "An accomplice shall be a competent witness against an accused person; and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice. As a rule of prudence, however, the testimony of an accomplice must be corroborated in material particulars.",
+      "citations": [],
+      "keywords": ["accomplice", "approver", "corroboration"]
+    },
+    {
+      "number": "146",
+      "title": "Questions lawful in cross-examination",
+      "content": "When a witness is cross-examined, he may, in addition to the questions herein-before referred to, be asked any questions which tend to test his veracity, to discover who he is and what is his position in life, or to shake his credit, by injuring his character.",
+      "citations": [],
+      "keywords": ["cross-examination", "veracity", "credit", "character"]
+    }
+  ]
+}

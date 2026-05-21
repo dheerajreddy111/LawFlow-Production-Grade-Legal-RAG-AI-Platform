@@ -1,0 +1,31 @@
+# Tooling-only pyproject. The package itself is not (yet) pip-installable;
+# this file exists to configure ruff (and any future formatters/linters)
+# so the same rules apply locally and in CI.
+#
+# Project:  LawFlow — Indian legal RAG platform
+# Author:   Dheeraj Reddy Thumma <https://github.com/dheerajreddy111>
+# License:  MIT (see ../LICENSE)
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+extend-exclude = [
+    ".venv",
+    "uploads",
+    "chroma_db",
+]
+
+[tool.ruff.lint]
+# Permissive baseline so CI starts green. Rule families:
+#   E (pycodestyle errors), F (pyflakes), I (isort) — catch real bugs +
+#   keep imports tidy. Style nits (E501 etc.) are deferred so the existing
+#   codebase doesn't churn before substantive work continues.
+select = ["E9", "F", "I"]
+ignore = [
+    "E402",  # module-level import not at top — used after path manipulation
+    "F401",  # unused imports — handled per-file (re-exports in __init__)
+]
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["F401", "I001"]    # re-exports + import order in package roots
+"tests/*"     = ["F841"]            # unused locals in tests are usually intentional

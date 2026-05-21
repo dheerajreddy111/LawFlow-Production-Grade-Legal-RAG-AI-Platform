@@ -1,0 +1,147 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+# Cancel superseded runs on the same ref. PR pushes still leave the latest
+# run intact; only the older one is cancelled. Doesn't apply to main.
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+# Least-privilege defaults — write scopes are not needed by these jobs.
+permissions:
+  contents: read
+
+jobs:
+  secret-scan:
+    name: Secret scan (committed secrets)
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Scan the entire tree on push, the changed-files diff on PRs. Either
+      # way the script exits non-zero if a real-looking secret is found,
+      # which fails the job and blocks the merge.
+      - name: Run scan_secrets.py (--all)
+        run: python scripts/scan_secrets.py --all
+
+  backend:
+    name: Backend (lint + tests)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      # Keep tests deterministic and cheap. The auth tests build their own
+      # per-test SQLite under /tmp via conftest; this default just ensures
+      # importing app.main never tries to create a file in the workspace.
+      DATABASE_URL: "sqlite+aiosqlite:///:memory:"
+      JWT_SECRET_KEY: "ci-not-a-real-secret"
+      ENVIRONMENT: "test"
+      # Disable HF model downloads' progress bars in logs.
+      HF_HUB_DISABLE_PROGRESS_BARS: "1"
+      TRANSFORMERS_NO_ADVISORY_WARNINGS: "1"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: backend/requirements.txt
+
+      - name: Cache HuggingFace model snapshots
+        # The embedding model (BAAI/bge-small-en-v1.5) is downloaded the first
+        # time vector_store / RAG tests run. Caching the HF hub directory keeps
+        # subsequent runs fast — the cache key is per-OS, not per-deps, because
+        # model files don't change with requirements.
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-${{ runner.os }}-v1
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Lint (ruff)
+        run: ruff check .
+
+      - name: Import smoke (catches wiring breakage early)
+        run: python -c "from app.main import app; print('imports ok:', len(app.routes), 'routes')"
+
+      - name: Tests (pytest)
+        run: pytest -q --junitxml=pytest-report.xml --color=yes
+
+      - name: Upload pytest report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: backend-pytest-report
+          path: backend/pytest-report.xml
+          retention-days: 14
+          if-no-files-found: ignore
+
+  frontend:
+    name: Frontend (lint + typecheck + build)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: frontend
+    env:
+      # Build-time public env so the bundled API base isn't undefined.
+      # In real deployments this is set per-environment via the host.
+      NEXT_PUBLIC_API_BASE_URL: "http://localhost:8000"
+      # Surface telemetry opt-outs explicitly so logs stay clean.
+      NEXT_TELEMETRY_DISABLED: "1"
+      CI: "true"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund --prefer-offline
+
+      - name: Lint (eslint)
+        run: npm run lint
+
+      - name: Type-check (tsc --noEmit)
+        run: npx --no-install tsc --noEmit
+
+      - name: Build (next build)
+        run: npm run build
+
+      - name: Upload Next build output on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: frontend-next-output
+          path: |
+            frontend/.next/
+            !frontend/.next/cache/
+          retention-days: 3
+          if-no-files-found: ignore

@@ -1,0 +1,85 @@
+{
+  "act": "Negotiable Instruments Act, 1881",
+  "short_title": "NI Act",
+  "year": 1881,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "4",
+      "title": "Promissory note",
+      "content": "A 'promissory note' is an instrument in writing (not being a bank-note or a currency-note) containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to, or to the order of, a certain person, or to the bearer of the instrument.",
+      "citations": [],
+      "keywords": ["promissory note", "pronote", "unconditional undertaking"]
+    },
+    {
+      "number": "5",
+      "title": "Bill of exchange",
+      "content": "A 'bill of exchange' is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.",
+      "citations": [],
+      "keywords": ["bill of exchange", "bill", "drawee", "drawer"]
+    },
+    {
+      "number": "6",
+      "title": "Cheque",
+      "content": "A 'cheque' is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand and it includes the electronic image of a truncated cheque and a cheque in the electronic form.",
+      "citations": [],
+      "keywords": ["cheque", "banker", "demand", "electronic cheque"]
+    },
+    {
+      "number": "13",
+      "title": "Negotiable instrument",
+      "content": "A 'negotiable instrument' means a promissory note, bill of exchange or cheque payable either to order or to bearer.",
+      "citations": [],
+      "keywords": ["negotiable instrument", "to order", "to bearer"]
+    },
+    {
+      "number": "31",
+      "title": "Liability of drawee of cheque",
+      "content": "The drawee of a cheque having sufficient funds of the drawer in his hands properly applicable to the payment of such cheque must pay the cheque when duly required so to do, and, in default of such payment, must compensate the drawer for any loss or damage caused by such default.",
+      "citations": [],
+      "keywords": ["drawee liability", "banker liability", "wrongful dishonour"]
+    },
+    {
+      "number": "138",
+      "title": "Dishonour of cheque for insufficiency of funds in the account",
+      "content": "Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of that account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either because of the amount of money standing to the credit of that account is insufficient to honour the cheque or that it exceeds the amount arranged to be paid from that account by an agreement made with that bank, such person shall be deemed to have committed an offence and shall, without prejudice to any other provisions of this Act, be punished with imprisonment for a term which may extend to two years, or with fine which may extend to twice the amount of the cheque, or with both.",
+      "citations": ["Dashrath Rupsingh Rathod v. State of Maharashtra, (2014) 9 SCC 129"],
+      "keywords": ["cheque bounce", "Section 138", "dishonour of cheque", "insufficient funds", "criminal cheque case"]
+    },
+    {
+      "number": "139",
+      "title": "Presumption in favour of holder",
+      "content": "It shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque of the nature referred to in section 138 for the discharge, in whole or in part, of any debt or other liability.",
+      "citations": ["Rangappa v. Sri Mohan, (2010) 11 SCC 441"],
+      "keywords": ["presumption", "burden of proof", "holder", "139 NI Act"]
+    },
+    {
+      "number": "141",
+      "title": "Offences by companies",
+      "content": "If the person committing an offence under section 138 is a company, every person who, at the time the offence was committed, was in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly. Where it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence.",
+      "citations": ["S.M.S. Pharmaceuticals v. Neeta Bhalla, (2005) 8 SCC 89"],
+      "keywords": ["offences by companies", "director liability", "S.M.S. Pharmaceuticals"]
+    },
+    {
+      "number": "142",
+      "title": "Cognizance of offences",
+      "content": "Notwithstanding anything contained in the Code of Criminal Procedure, no court shall take cognizance of any offence punishable under section 138 except upon a complaint, in writing, made by the payee or the holder in due course of the cheque, as the case may be. Such complaint shall be made within one month of the date on which the cause of action arises under clause (c) of the proviso to section 138.",
+      "citations": [],
+      "keywords": ["complaint procedure", "limitation", "one month", "payee complaint"]
+    },
+    {
+      "number": "143A",
+      "title": "Power to direct interim compensation",
+      "content": "Notwithstanding anything contained in the Code of Criminal Procedure, the Court trying an offence under section 138 may order the drawer of the cheque to pay interim compensation to the complainant in a summary trial or a summons case, where he pleads not guilty to the accusation made in the complaint; and in any other case, upon framing of charge. The interim compensation shall not exceed twenty per cent of the amount of the cheque.",
+      "citations": [],
+      "keywords": ["interim compensation", "143A", "Cheque dishonour"]
+    },
+    {
+      "number": "147",
+      "title": "Offences to be compoundable",
+      "content": "Notwithstanding anything contained in the Code of Criminal Procedure, every offence punishable under this Act shall be compoundable.",
+      "citations": ["Damodar S. Prabhu v. Sayed Babalal H., (2010) 5 SCC 663"],
+      "keywords": ["compounding", "compoundable", "settlement"]
+    }
+  ]
+}

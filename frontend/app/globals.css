@@ -1,0 +1,494 @@
+@import "tailwindcss";
+
+/* ──────────────────────────────────────────────────────────────────────────
+ * Theme tokens
+ * ──────────────────────────────────────────────────────────────────────────
+ *
+ * Light is the default. Dark is opt-in via <html data-theme="dark"> and is
+ * driven by the ThemeProvider in app/lib/theme/context.tsx.
+ *
+ * Tokens are split into two layers:
+ *
+ *  1. BRAND   navy / gold / parchment. Identical across themes — these
+ *             are the LawFlow palette and never change.
+ *  2. SURFACE backgrounds, borders, text. Recolour per theme.
+ *
+ * Most components were written before dark mode and use Tailwind classes
+ * like `bg-white`, `text-slate-700`, `border-slate-200` directly. Rather
+ * than rewriting every component, the bottom of this file remaps those
+ * classes to the surface tokens when `data-theme="dark"` is set. New code
+ * should prefer the tokens directly (e.g. `style={{ color: 'var(--lf-fg)' }}`)
+ * but the override layer keeps existing components legible in dark mode
+ * without breaking the visual language.
+ *
+ * Why not Tailwind's built-in dark mode variant? The codebase has too many
+ * inline hex literals (`text-[#0A1628]`) to retrofit `dark:` modifiers
+ * everywhere. Attribute-selector overrides cover the surface layer in one
+ * place and brand literals are remapped to brand-correct dark equivalents
+ * (e.g. `#0A1628` → the dark-mode navy surface).
+ */
+
+:root {
+  /* ── Brand (stable across themes) ───────────────────────────────────── */
+  --navy-950: #060d18;
+  --navy-900: #0a1628;
+  --navy-800: #0f2744;
+  --navy-700: #16335c;
+  --gold-600: #9e6a0e;
+  --gold-500: #c9892a;
+  --gold-400: #d8a849;
+  --saffron: #e8a13a;
+  --parchment: #fefbf3;
+
+  /* ── Surface (light) ────────────────────────────────────────────────── */
+  --lf-bg: #eceef3;
+  --lf-bg-sunken: #e3e6ee;
+  --lf-bg-canvas: #f5f6fa;
+  --lf-surface: #ffffff;
+  --lf-surface-muted: #f8fafc;       /* slate-50 */
+  --lf-surface-hover: #f1f5f9;       /* slate-100 */
+  --lf-fg: #0a1628;
+  --lf-fg-soft: #1e293b;             /* slate-800 */
+  --lf-fg-muted: #475569;            /* slate-600 */
+  --lf-fg-subtle: #64748b;           /* slate-500 */
+  --lf-fg-faint: #94a3b8;            /* slate-400 */
+  --lf-fg-quiet: #cbd5e1;            /* slate-300 */
+  --lf-border: #e2e8f0;              /* slate-200 */
+  --lf-border-soft: #f1f5f9;         /* slate-100 */
+  --lf-ring: rgba(201, 137, 42, 0.15);
+  --lf-shadow-soft: 0 1px 3px rgba(10, 22, 40, 0.06);
+  --lf-shadow-card: 0 2px 10px rgba(10, 22, 40, 0.06);
+  --lf-shadow-drawer: -30px 0 60px -30px rgba(10, 22, 40, 0.28);
+  --lf-accent-on-dark: var(--gold-400);
+
+  /* Tailwind v4 reads these for `bg-background`, `text-foreground`. */
+  --background: var(--lf-bg);
+  --foreground: var(--lf-fg);
+
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  /* Dark mode — premium, restrained. No neon, no glow.
+   *
+   * Hue keeps a slight blue cast so the navy + gold brand reads as a
+   * single palette rather than gold-on-grey. Contrast tuned so body
+   * copy hits AA on bg-surface and large UI hits AAA. */
+  --lf-bg: #0b1220;                  /* page canvas */
+  --lf-bg-sunken: #070c16;
+  --lf-bg-canvas: #0b1220;
+  --lf-surface: #111a2c;             /* card */
+  --lf-surface-muted: #0e1626;       /* inset / sunken card */
+  --lf-surface-hover: #182338;
+  --lf-fg: #e6e9f2;                  /* primary text — softer than pure white */
+  --lf-fg-soft: #d4dae6;
+  --lf-fg-muted: #a7b0c2;            /* secondary text */
+  --lf-fg-subtle: #8893a8;
+  --lf-fg-faint: #6b7894;
+  --lf-fg-quiet: #4b5673;
+  --lf-border: #1f2a40;
+  --lf-border-soft: #172238;
+  --lf-ring: rgba(216, 168, 73, 0.22);
+  --lf-shadow-soft: 0 1px 2px rgba(0, 0, 0, 0.5);
+  --lf-shadow-card: 0 2px 12px rgba(0, 0, 0, 0.45);
+  --lf-shadow-drawer: -30px 0 60px -30px rgba(0, 0, 0, 0.65);
+  --lf-accent-on-dark: var(--gold-400);
+
+  --background: var(--lf-bg);
+  --foreground: var(--lf-fg);
+
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-fraunces);
+  --color-navy-950: var(--navy-950);
+  --color-navy-900: var(--navy-900);
+  --color-navy-800: var(--navy-800);
+  --color-navy-700: var(--navy-700);
+  --color-gold-600: var(--gold-600);
+  --color-gold-500: var(--gold-500);
+  --color-gold-400: var(--gold-400);
+  --color-saffron: var(--saffron);
+  --color-parchment: var(--parchment);
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: var(--lf-bg);
+  color: var(--lf-fg);
+  font-family: var(--font-geist-sans), -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Soften the cross-theme transition. Components inherit color via the
+   * cascade so animating background+color on body produces a smooth flip. */
+  transition: background-color 180ms ease, color 180ms ease;
+}
+
+.font-display {
+  font-family: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  font-optical-sizing: auto;
+}
+
+/* ── Scrollbar ─────────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #c3cad6;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9aa6b6;
+}
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: #2b3a52;
+}
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: #3a4b6a;
+}
+
+/* ── Streaming caret ───────────────────────────────────────────────────── */
+@keyframes lf-blink {
+  0%,
+  49% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+.lf-cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1.05em;
+  margin-left: 2px;
+  vertical-align: text-bottom;
+  background: var(--gold-500);
+  border-radius: 1px;
+  animation: lf-blink 1s steps(1) infinite;
+}
+
+/* ── Message entrance ──────────────────────────────────────────────────── */
+@keyframes lf-rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.lf-rise {
+  animation: lf-rise 0.42s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* ── Shimmer (skeleton / generating) ───────────────────────────────────── */
+@keyframes lf-shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+.lf-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+.lf-shimmer::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(201, 137, 42, 0.14),
+    transparent
+  );
+  animation: lf-shimmer 1.6s infinite;
+}
+
+/* ── Soft gold pulse (live orchestration dot) ──────────────────────────── */
+@keyframes lf-pulse-ring {
+  0% {
+    box-shadow: 0 0 0 0 rgba(201, 137, 42, 0.45);
+  }
+  70% {
+    box-shadow: 0 0 0 6px rgba(201, 137, 42, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(201, 137, 42, 0);
+  }
+}
+.lf-live-dot {
+  animation: lf-pulse-ring 2s infinite;
+}
+
+/* ── Confidence meter fill ─────────────────────────────────────────────── */
+@keyframes lf-meter {
+  from {
+    width: 0;
+  }
+}
+.lf-meter-fill {
+  animation: lf-meter 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* ── Premium card hover lift ───────────────────────────────────────────── */
+.lf-lift {
+  transition: transform 0.18s ease, box-shadow 0.18s ease,
+    border-color 0.18s ease;
+}
+.lf-lift:hover {
+  transform: translateY(-1px);
+}
+
+/* ── "Built with" marquee ──────────────────────────────────────────────── */
+@keyframes lf-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.lf-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: lf-marquee 32s linear infinite;
+  will-change: transform;
+}
+.lf-marquee-wrap:hover .lf-marquee-track {
+  animation-play-state: paused;
+}
+.lf-fade-x {
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0,
+    #000 12%,
+    #000 88%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent 0,
+    #000 12%,
+    #000 88%,
+    transparent 100%
+  );
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lf-rise,
+  .lf-shimmer::after,
+  .lf-live-dot,
+  .lf-meter-fill,
+  .lf-cursor,
+  .lf-marquee-track {
+    animation: none;
+  }
+  body {
+    transition: none;
+  }
+}
+
+/* ──────────────────────────────────────────────────────────────────────────
+ * Dark-mode surface remapping
+ * ──────────────────────────────────────────────────────────────────────────
+ *
+ * Components were written with Tailwind utility classes whose values are
+ * baked at build time (e.g. `bg-white`, `text-slate-700`). Below, those
+ * utilities are remapped to dark-mode tokens when the document is in dark
+ * mode. The rules are written defensively:
+ *
+ *   - `.bg-white`            → surface
+ *   - `.bg-slate-50/60`      → muted surface
+ *   - `.text-slate-{n}`      → graded foreground
+ *   - `.border-slate-{n}`    → graded border
+ *   - hex literals in [#…]   → token of equivalent intent
+ *
+ * The brand navy (#0A1628 / #0F2744) reads as a *foreground* in light
+ * mode and as a *background* in dark mode; we keep it as-is when used
+ * as a strong navy block (e.g. the user-message bubble) and only invert
+ * when it functioned as primary text.
+ *
+ * Specificity is one attribute selector + one class, so utilities still
+ * win over plain element rules but ordinary class authoring keeps
+ * working in either mode without `!important`.
+ */
+
+/* Backgrounds */
+[data-theme="dark"] .bg-white { background-color: var(--lf-surface); }
+[data-theme="dark"] .bg-slate-50 { background-color: var(--lf-surface-muted); }
+[data-theme="dark"] .bg-slate-100 { background-color: var(--lf-surface-hover); }
+[data-theme="dark"] .bg-slate-50\/40 { background-color: color-mix(in srgb, var(--lf-surface-muted) 65%, transparent); }
+[data-theme="dark"] .bg-slate-50\/60 { background-color: color-mix(in srgb, var(--lf-surface-muted) 80%, transparent); }
+[data-theme="dark"] .bg-slate-50\/70 { background-color: color-mix(in srgb, var(--lf-surface-muted) 90%, transparent); }
+[data-theme="dark"] .bg-\[\#ECEEF3\],
+[data-theme="dark"] .bg-\[\#F5F6FA\],
+[data-theme="dark"] .bg-\[\#F7F8FB\] { background-color: var(--lf-bg); }
+
+/* Brand navy used as background — keep, but slightly brightened so the
+ * gold-on-navy ratio reads correctly against a dark page. */
+[data-theme="dark"] .bg-\[\#0A1628\],
+[data-theme="dark"] .bg-\[\#0A1628\]\/5,
+[data-theme="dark"] .bg-\[\#0A1628\]\/8 {
+  background-color: var(--lf-surface-hover);
+}
+
+/* Borders */
+[data-theme="dark"] .border-slate-100 { border-color: var(--lf-border-soft); }
+[data-theme="dark"] .border-slate-100\/80 { border-color: color-mix(in srgb, var(--lf-border-soft) 80%, transparent); }
+[data-theme="dark"] .border-slate-200 { border-color: var(--lf-border); }
+[data-theme="dark"] .border-slate-200\/70 { border-color: color-mix(in srgb, var(--lf-border) 80%, transparent); }
+[data-theme="dark"] .border-slate-200\/80 { border-color: color-mix(in srgb, var(--lf-border) 90%, transparent); }
+[data-theme="dark"] .border-slate-300 { border-color: #334155; }
+[data-theme="dark"] .divide-slate-100 > * + * { border-color: var(--lf-border-soft); }
+
+/* Rings */
+[data-theme="dark"] .ring-slate-100 { --tw-ring-color: var(--lf-border-soft); }
+[data-theme="dark"] .ring-slate-200 { --tw-ring-color: var(--lf-border); }
+[data-theme="dark"] .ring-\[\#0A1628\]\/10,
+[data-theme="dark"] .ring-\[\#0A1628\]\/12,
+[data-theme="dark"] .ring-\[\#0A1628\]\/15 { --tw-ring-color: var(--lf-border); }
+
+/* Foreground text (graded) */
+[data-theme="dark"] .text-slate-300 { color: var(--lf-fg-quiet); }
+[data-theme="dark"] .text-slate-400 { color: var(--lf-fg-faint); }
+[data-theme="dark"] .text-slate-500 { color: var(--lf-fg-subtle); }
+[data-theme="dark"] .text-slate-600 { color: var(--lf-fg-muted); }
+[data-theme="dark"] .text-slate-700 { color: var(--lf-fg-soft); }
+[data-theme="dark"] .text-slate-800,
+[data-theme="dark"] .text-slate-900 { color: var(--lf-fg); }
+
+/* Brand navy used as primary text → primary foreground. The bare hex is
+ * the dominant primary in the codebase; remap once. The alpha-scaled
+ * variants (`/55`, `/45`) signal "muted" so map to the muted token. */
+[data-theme="dark"] .text-\[\#0A1628\] { color: var(--lf-fg); }
+[data-theme="dark"] .text-\[\#0A1628\]\/45,
+[data-theme="dark"] .text-\[\#0A1628\]\/55 { color: var(--lf-fg-muted); }
+[data-theme="dark"] .text-\[\#0A1628\]\/75 { color: var(--lf-fg-soft); }
+
+/* Tonal hover surfaces */
+[data-theme="dark"] .hover\:bg-slate-50:hover { background-color: var(--lf-surface-hover); }
+[data-theme="dark"] .hover\:bg-slate-50\/40:hover { background-color: color-mix(in srgb, var(--lf-surface-hover) 60%, transparent); }
+[data-theme="dark"] .hover\:bg-slate-50\/50:hover { background-color: color-mix(in srgb, var(--lf-surface-hover) 70%, transparent); }
+[data-theme="dark"] .hover\:bg-slate-50\/60:hover { background-color: color-mix(in srgb, var(--lf-surface-hover) 80%, transparent); }
+[data-theme="dark"] .hover\:bg-slate-50\/70:hover { background-color: color-mix(in srgb, var(--lf-surface-hover) 90%, transparent); }
+[data-theme="dark"] .hover\:border-slate-300:hover { border-color: var(--lf-border); }
+
+/* Form inputs — make placeholder + focus state visible on dark surfaces */
+[data-theme="dark"] input,
+[data-theme="dark"] textarea,
+[data-theme="dark"] select {
+  background-color: var(--lf-surface-muted);
+  color: var(--lf-fg);
+  border-color: var(--lf-border);
+}
+[data-theme="dark"] input::placeholder,
+[data-theme="dark"] textarea::placeholder {
+  color: var(--lf-fg-faint);
+}
+
+/* Code blocks (used in chat messages) — keep the navy block, just nudge
+ * the surface so it doesn't look like a pure-black rectangle on a dark
+ * page. */
+[data-theme="dark"] pre.bg-\[\#0A1628\],
+[data-theme="dark"] pre[class*="bg-\\[\\#0A1628\\]"] {
+  background-color: #0e1626;
+  border: 1px solid var(--lf-border);
+}
+
+/* Tonal accents — preserve coloured chips (emerald / rose / amber) but
+ * darken the wash so they still read as accents, not bright stickers. */
+[data-theme="dark"] .bg-emerald-50 { background-color: rgba(16, 185, 129, 0.12); }
+[data-theme="dark"] .bg-emerald-50\/80 { background-color: rgba(16, 185, 129, 0.16); }
+[data-theme="dark"] .text-emerald-700 { color: #6ee7b7; }
+[data-theme="dark"] .text-emerald-800 { color: #34d399; }
+[data-theme="dark"] .ring-emerald-200 { --tw-ring-color: rgba(16, 185, 129, 0.35); }
+[data-theme="dark"] .border-emerald-200 { border-color: rgba(16, 185, 129, 0.35); }
+
+[data-theme="dark"] .bg-red-50,
+[data-theme="dark"] .bg-rose-50 { background-color: rgba(244, 63, 94, 0.12); }
+[data-theme="dark"] .bg-red-50\/80,
+[data-theme="dark"] .bg-rose-50\/80 { background-color: rgba(244, 63, 94, 0.16); }
+[data-theme="dark"] .text-red-700 { color: #fca5a5; }
+[data-theme="dark"] .text-rose-700 { color: #fca5a5; }
+[data-theme="dark"] .text-red-600,
+[data-theme="dark"] .text-rose-600 { color: #f87171; }
+[data-theme="dark"] .border-red-200,
+[data-theme="dark"] .border-rose-200 { border-color: rgba(244, 63, 94, 0.35); }
+[data-theme="dark"] .ring-red-200,
+[data-theme="dark"] .ring-rose-200 { --tw-ring-color: rgba(244, 63, 94, 0.35); }
+
+[data-theme="dark"] .bg-amber-50 { background-color: rgba(245, 158, 11, 0.12); }
+[data-theme="dark"] .text-amber-800 { color: #fcd34d; }
+[data-theme="dark"] .border-amber-200 { border-color: rgba(245, 158, 11, 0.35); }
+
+[data-theme="dark"] .bg-blue-50 { background-color: rgba(59, 130, 246, 0.12); }
+[data-theme="dark"] .text-blue-700 { color: #93c5fd; }
+[data-theme="dark"] .border-blue-200 { border-color: rgba(59, 130, 246, 0.35); }
+[data-theme="dark"] .ring-blue-200 { --tw-ring-color: rgba(59, 130, 246, 0.35); }
+
+[data-theme="dark"] .bg-purple-50 { background-color: rgba(168, 85, 247, 0.14); }
+[data-theme="dark"] .text-purple-700 { color: #d8b4fe; }
+[data-theme="dark"] .border-purple-200 { border-color: rgba(168, 85, 247, 0.35); }
+[data-theme="dark"] .ring-purple-200 { --tw-ring-color: rgba(168, 85, 247, 0.35); }
+
+/* Gold chip (used heavily in the chat UI) reads better as a darker wash
+ * with a brighter foreground in dark mode. */
+[data-theme="dark"] .bg-\[\#FBF1DC\],
+[data-theme="dark"] .bg-\[\#FBF1DC\]\/20,
+[data-theme="dark"] .bg-\[\#FBF1DC\]\/40 {
+  background-color: rgba(216, 168, 73, 0.12);
+}
+[data-theme="dark"] .text-\[\#9E6A0E\] { color: var(--gold-400); }
+[data-theme="dark"] .ring-\[\#E8C97A\]\/70 { --tw-ring-color: rgba(216, 168, 73, 0.4); }
+[data-theme="dark"] .hover\:bg-\[\#C9892A\]\/10:hover,
+[data-theme="dark"] .hover\:bg-\[\#C9892A\]\/15:hover { background-color: rgba(216, 168, 73, 0.12); }
+[data-theme="dark"] .hover\:bg-\[\#FBF1DC\]\/20:hover { background-color: rgba(216, 168, 73, 0.10); }
+
+/* Chart axes/gridlines — recharts reads literal colour values. Override
+ * via inline style would mean touching every chart; instead, target the
+ * SVG nodes within the data-theme tree by their default stroke colour.
+ * Tailwind's CartesianGrid uses `stroke="#E2E8F0"` and the axis stroke
+ * `#94A3B8`, both passed as props — they end up as inline strokes.
+ *
+ * SVG attribute presence selectors let us flip both without re-rendering. */
+[data-theme="dark"] svg .recharts-cartesian-grid line,
+[data-theme="dark"] svg line[stroke="#E2E8F0"] {
+  stroke: rgba(255, 255, 255, 0.06);
+}
+[data-theme="dark"] svg path[stroke="#E2E8F0"] {
+  stroke: var(--lf-border);
+}
+[data-theme="dark"] svg .recharts-cartesian-axis-line {
+  stroke: var(--lf-border);
+}
+[data-theme="dark"] svg .recharts-cartesian-axis-tick-line,
+[data-theme="dark"] svg .recharts-cartesian-axis-tick-value {
+  fill: var(--lf-fg-faint);
+}
+[data-theme="dark"] svg .recharts-tooltip-cursor {
+  fill: rgba(216, 168, 73, 0.10) !important;
+}
+
+/* Backdrops (drawers / modals) — keep navy but with more opacity so the
+ * underlying dark surface is suppressed. */
+[data-theme="dark"] .bg-\[\#0A1628\]\/15 { background-color: rgba(0, 0, 0, 0.45); }
+[data-theme="dark"] .bg-\[\#0A1628\]\/40 { background-color: rgba(0, 0, 0, 0.65); }

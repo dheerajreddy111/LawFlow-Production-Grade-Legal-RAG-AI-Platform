@@ -1,0 +1,78 @@
+{
+  "act": "Specific Relief Act, 1963",
+  "short_title": "Specific Relief Act",
+  "year": 1963,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "5",
+      "title": "Recovery of specific immoveable property",
+      "content": "A person entitled to the possession of specific immoveable property may recover it in the manner provided by the Code of Civil Procedure, 1908.",
+      "citations": [],
+      "keywords": ["recovery of possession", "immoveable property"]
+    },
+    {
+      "number": "6",
+      "title": "Suit by person dispossessed of immoveable property",
+      "content": "If any person is dispossessed without his consent of immoveable property otherwise than in due course of law, he or any person claiming through him may, by suit, recover possession thereof, notwithstanding any other title that may be set up in such suit. No suit under this section shall be brought after the expiry of six months from the date of dispossession or against the Government.",
+      "citations": [],
+      "keywords": ["dispossession", "six months", "summary remedy", "Section 6"]
+    },
+    {
+      "number": "10",
+      "title": "Specific performance of contract",
+      "content": "The specific performance of a contract shall be enforced by the court subject to the provisions contained in sub-section (2) of section 11, section 14 and section 16. The contracts which are specifically enforceable include contracts which involve the doing of an act for the breach of which compensation in money would not afford adequate relief; and contracts the performance of which is not capable of being adequately compensated in damages.",
+      "citations": ["Saradamani Kandappan v. S. Rajalakshmi, (2011) 12 SCC 18"],
+      "keywords": ["specific performance", "contract enforcement"]
+    },
+    {
+      "number": "14",
+      "title": "Contracts not specifically enforceable",
+      "content": "The following contracts cannot be specifically enforced, namely: where a party to the contract has obtained substituted performance of contract in accordance with the provisions of section 20; a contract, the performance of which involves the performance of a continuous duty which the court cannot supervise; a contract which is so dependent on the personal qualifications of the parties that the court cannot enforce specific performance of its material terms; and a contract which is in its nature determinable.",
+      "citations": [],
+      "keywords": ["not enforceable", "personal contracts", "determinable contracts"]
+    },
+    {
+      "number": "16",
+      "title": "Personal bars to relief",
+      "content": "Specific performance of a contract cannot be enforced in favour of a person who has obtained substituted performance of contract under section 20; who has become incapable of performing, or violates any essential term of, the contract that on his part remains to be performed, or acts in fraud of the contract, or wilfully acts at variance with, or in subversion of, the relation intended to be established by the contract; or who fails to prove that he has performed or has always been ready and willing to perform the essential terms of the contract which are to be performed by him.",
+      "citations": [],
+      "keywords": ["ready and willing", "personal bars", "readiness and willingness"]
+    },
+    {
+      "number": "20",
+      "title": "Substituted performance of contract",
+      "content": "Without prejudice to the generality of the provisions contained in the Indian Contract Act, 1872, and, except as otherwise agreed upon by the parties, where the contract is broken due to non-performance of promise by any party, the party who suffers by such breach shall have the option of substituted performance through a third party or by his own agency, and recover the expenses and other costs actually incurred, spent or suffered by him, from the party committing such breach.",
+      "citations": [],
+      "keywords": ["substituted performance", "third party performance"]
+    },
+    {
+      "number": "34",
+      "title": "Discretion of court as to declaration of status or right",
+      "content": "Any person entitled to any legal character, or to any right as to any property, may institute a suit against any person denying, or interested to deny, his title to such character or right, and the court may in its discretion make therein a declaration that he is so entitled, and the plaintiff need not in such suit ask for any further relief. Provided that no court shall make any such declaration where the plaintiff, being able to seek further relief than a mere declaration of title, omits to do so.",
+      "citations": [],
+      "keywords": ["declaratory suit", "declaration of title"]
+    },
+    {
+      "number": "38",
+      "title": "Perpetual injunction when granted",
+      "content": "Subject to the other provisions contained in or referred to by this Chapter, a perpetual injunction may be granted to the plaintiff to prevent the breach of an obligation existing in his favour, whether expressly or by implication. When any such obligation arises from contract, the court shall be guided by the rules and provisions contained in Chapter II.",
+      "citations": [],
+      "keywords": ["perpetual injunction", "permanent injunction"]
+    },
+    {
+      "number": "39",
+      "title": "Mandatory injunctions",
+      "content": "When, to prevent the breach of an obligation, it is necessary to compel the performance of certain acts which the court is capable of enforcing, the court may in its discretion grant an injunction to prevent the breach complained of, and also to compel performance of the requisite acts.",
+      "citations": [],
+      "keywords": ["mandatory injunction", "compel performance"]
+    },
+    {
+      "number": "41",
+      "title": "Injunction when refused",
+      "content": "An injunction cannot be granted to restrain any person from prosecuting a judicial proceeding pending at the institution of the suit in which the injunction is sought, unless such restraint is necessary to prevent a multiplicity of proceedings; to restrain any person from instituting or prosecuting any proceeding in a court not subordinate to that from which the injunction is sought; to restrain any person from applying to any legislative body; to restrain any person from instituting or prosecuting any proceeding in a criminal matter; to prevent the breach of a contract the performance of which would not be specifically enforced; to prevent, on the ground of nuisance, an act of which it is not reasonably clear that it will be a nuisance; to prevent a continuing breach in which the plaintiff has acquiesced; when equally efficacious relief can certainly be obtained by any other usual mode of proceeding except in case of breach of trust.",
+      "citations": [],
+      "keywords": ["injunction refused", "limitations"]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "act": "Indian Penal Code, 1860",
+  "short_title": "IPC",
+  "year": 1860,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "34",
+      "title": "Acts done by several persons in furtherance of common intention",
+      "content": "When a criminal act is done by several persons, in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+      "citations": ["Mahbub Shah v. King-Emperor, AIR 1945 PC 118"],
+      "keywords": ["common intention", "joint liability", "criminal conspiracy"]
+    },
+    {
+      "number": "120A",
+      "title": "Definition of criminal conspiracy",
+      "content": "When two or more persons agree to do, or cause to be done, an illegal act, or an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy.",
+      "citations": [],
+      "keywords": ["criminal conspiracy", "agreement", "illegal act"]
+    },
+    {
+      "number": "120B",
+      "title": "Punishment of criminal conspiracy",
+      "content": "Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.",
+      "citations": [],
+      "keywords": ["conspiracy punishment", "abetment"]
+    },
+    {
+      "number": "124A",
+      "title": "Sedition",
+      "content": "Whoever, by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards, the Government established by law in India, shall be punished with imprisonment for life, to which fine may be added, or with imprisonment which may extend to three years, to which fine may be added, or with fine.",
+      "citations": ["Kedar Nath Singh v. State of Bihar, AIR 1962 SC 955"],
+      "keywords": ["sedition", "disaffection", "government", "free speech"]
+    },
+    {
+      "number": "144",
+      "title": "Joining unlawful assembly armed with deadly weapon",
+      "content": "Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "citations": [],
+      "keywords": ["unlawful assembly", "armed assembly", "deadly weapon"]
+    },
+    {
+      "number": "153A",
+      "title": "Promoting enmity between different groups",
+      "content": "Whoever by words, either spoken or written, or by signs or by visible representations or otherwise, promotes or attempts to promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, disharmony or feelings of enmity, hatred or ill-will between different religious, racial, language or regional groups or castes or communities, shall be punished with imprisonment which may extend to three years, or with fine, or with both.",
+      "citations": [],
+      "keywords": ["hate speech", "communal", "enmity", "religion", "caste"]
+    },
+    {
+      "number": "300",
+      "title": "Murder",
+      "content": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death.",
+      "citations": ["Reg v. Govinda, (1876) ILR 1 Bom 342"],
+      "keywords": ["murder", "culpable homicide", "intention", "death"]
+    },
+    {
+      "number": "302",
+      "title": "Punishment for murder",
+      "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+      "citations": ["Bachan Singh v. State of Punjab, AIR 1980 SC 898", "Machhi Singh v. State of Punjab, AIR 1983 SC 957"],
+      "keywords": ["murder", "homicide", "killing", "death penalty", "life imprisonment"]
+    },
+    {
+      "number": "304",
+      "title": "Punishment for culpable homicide not amounting to murder",
+      "content": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death.",
+      "citations": [],
+      "keywords": ["culpable homicide", "not amounting to murder", "manslaughter"]
+    },
+    {
+      "number": "304A",
+      "title": "Causing death by negligence",
+      "content": "Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "citations": ["Alister Anthony Pareira v. State of Maharashtra, (2012) 2 SCC 648"],
+      "keywords": ["negligence", "rash act", "death by negligence", "drunk driving death"]
+    },
+    {
+      "number": "304B",
+      "title": "Dowry death",
+      "content": "Where the death of a woman is caused by burns or bodily injury or occurs otherwise than under normal circumstances within seven years of marriage, and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or his relative for, or in connection with, any demand for dowry, such death shall be called 'dowry death'. Such husband or relative shall be punished with imprisonment for a term not less than seven years which may extend to imprisonment for life.",
+      "citations": ["Kans Raj v. State of Punjab, (2000) 5 SCC 207"],
+      "keywords": ["dowry death", "dowry", "cruelty", "harassment", "bride burning"]
+    },
+    {
+      "number": "306",
+      "title": "Abetment of suicide",
+      "content": "If any person commits suicide, whoever abets the commission of such suicide, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "citations": ["Gurbachan Singh v. Satpal Singh, AIR 1990 SC 209"],
+      "keywords": ["abetment of suicide", "suicide", "abetment"]
+    },
+    {
+      "number": "307",
+      "title": "Attempt to murder",
+      "content": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is herein before mentioned.",
+      "citations": [],
+      "keywords": ["attempt to murder", "attempted homicide"]
+    },
+    {
+      "number": "323",
+      "title": "Punishment for voluntarily causing hurt",
+      "content": "Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+      "citations": [],
+      "keywords": ["hurt", "voluntary hurt", "assault"]
+    },
+    {
+      "number": "324",
+      "title": "Voluntarily causing hurt by dangerous weapons or means",
+      "content": "Whoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "citations": [],
+      "keywords": ["dangerous weapon", "hurt by weapon", "assault with weapon"]
+    },
+    {
+      "number": "326",
+      "title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+      "content": "Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["grievous hurt", "acid attack", "dangerous weapon"]
+    },
+    {
+      "number": "354",
+      "title": "Assault or criminal force to woman with intent to outrage her modesty",
+      "content": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+      "citations": [],
+      "keywords": ["outraging modesty", "sexual assault", "molestation"]
+    },
+    {
+      "number": "375",
+      "title": "Rape",
+      "content": "A man is said to commit rape if he has sexual intercourse with a woman against her will, without her consent, with consent obtained by putting her or any person in whom she is interested in fear of death or hurt, with her consent when the man knows that he is not her husband, with or without her consent when she is under eighteen years of age, or when she is unable to communicate consent.",
+      "citations": ["State of Punjab v. Gurmit Singh, (1996) 2 SCC 384"],
+      "keywords": ["rape", "sexual assault", "consent", "sexual offence"]
+    },
+    {
+      "number": "376",
+      "title": "Punishment for rape",
+      "content": "Whoever, except in the cases provided for in sub-section (2), commits rape, shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. For aggravated cases involving police officers, public servants, custodial situations, gang rape, rape of women under sixteen, etc., the punishment is rigorous imprisonment for a term not less than ten years, but which may extend to life, and fine.",
+      "citations": [],
+      "keywords": ["rape punishment", "custodial rape", "aggravated rape"]
+    },
+    {
+      "number": "378",
+      "title": "Theft",
+      "content": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+      "citations": ["K.N. Mehra v. State of Rajasthan, AIR 1957 SC 369"],
+      "keywords": ["theft", "stealing", "movable property", "dishonest taking"]
+    },
+    {
+      "number": "379",
+      "title": "Punishment for theft",
+      "content": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "citations": [],
+      "keywords": ["theft punishment", "imprisonment for theft"]
+    },
+    {
+      "number": "390",
+      "title": "Robbery",
+      "content": "In all robbery there is either theft or extortion. Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.",
+      "citations": [],
+      "keywords": ["robbery", "theft with violence"]
+    },
+    {
+      "number": "395",
+      "title": "Punishment for dacoity",
+      "content": "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. Dacoity is when five or more persons conjointly commit or attempt to commit a robbery.",
+      "citations": [],
+      "keywords": ["dacoity", "gang robbery"]
+    },
+    {
+      "number": "415",
+      "title": "Cheating",
+      "content": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.",
+      "citations": ["Hridaya Ranjan Prasad Verma v. State of Bihar, (2000) 4 SCC 168"],
+      "keywords": ["cheating", "deception", "fraud", "induce", "dishonest"]
+    },
+    {
+      "number": "420",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "content": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "citations": ["Hridaya Ranjan Prasad Verma v. State of Bihar, (2000) 4 SCC 168"],
+      "keywords": ["cheating", "fraud", "420", "induce delivery", "online fraud", "scam"]
+    },
+    {
+      "number": "463",
+      "title": "Forgery",
+      "content": "Whoever makes any false documents or false electronic record or part of a document or electronic record, with intent to cause damage or injury to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+      "citations": [],
+      "keywords": ["forgery", "false document", "fake document"]
+    },
+    {
+      "number": "499",
+      "title": "Defamation",
+      "content": "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.",
+      "citations": ["Subramanian Swamy v. Union of India, (2016) 7 SCC 221"],
+      "keywords": ["defamation", "libel", "slander", "reputation"]
+    },
+    {
+      "number": "500",
+      "title": "Punishment for defamation",
+      "content": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+      "citations": [],
+      "keywords": ["defamation punishment"]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "act": "Consumer Protection Act, 2019",
+  "short_title": "Consumer Protection Act",
+  "year": 2019,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "2",
+      "title": "Definitions — consumer, deficiency, defect, unfair trade practice",
+      "content": "'Consumer' means any person who buys any goods or hires or avails of any service for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment, and includes any user of such goods or beneficiary of such services. 'Deficiency' means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force, or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service. 'Defect' means any fault, imperfection, or shortcoming in the quality, quantity, potency, purity or standard of goods. 'Unfair trade practice' means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice.",
+      "citations": [],
+      "keywords": ["consumer definition", "deficiency", "defect", "unfair trade practice"]
+    },
+    {
+      "number": "10",
+      "title": "Central Consumer Protection Authority",
+      "content": "The Central Government shall, by notification, establish with effect from such date as it may specify in that notification, a Central Consumer Protection Authority to be known as the Central Authority to regulate matters relating to violation of rights of consumers, unfair trade practices and false or misleading advertisements which are prejudicial to the interests of public and consumers and to promote, protect and enforce the rights of consumers as a class.",
+      "citations": [],
+      "keywords": ["CCPA", "Central Authority", "consumer rights"]
+    },
+    {
+      "number": "21",
+      "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+      "content": "Where the Central Authority is satisfied, after investigation, that any advertisement is false or misleading and is prejudicial to the interests of any consumer or is in contravention of consumer rights, it may by order, issue directions to the concerned trader, manufacturer, endorser, advertiser or publisher to discontinue such advertisement or to modify the same, and may impose on the manufacturer, endorser or advertiser a penalty which may extend to ten lakh rupees, with a further penalty of up to fifty lakh rupees on each subsequent contravention.",
+      "citations": [],
+      "keywords": ["misleading advertisement", "false advertising", "endorser liability", "penalty"]
+    },
+    {
+      "number": "34",
+      "title": "Jurisdiction of District Commission",
+      "content": "Subject to the other provisions of this Act, the District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed fifty lakh rupees (current ceiling). A complaint shall be instituted in the District Commission within the local limits of whose jurisdiction the opposite party or each of the opposite parties, where there are more than one, ordinarily resides or carries on business or has a branch office or personally works for gain, or the cause of action wholly or in part arises.",
+      "citations": [],
+      "keywords": ["District Commission", "pecuniary jurisdiction", "where to file", "consumer complaint"]
+    },
+    {
+      "number": "35",
+      "title": "Manner in which complaint shall be made",
+      "content": "A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided, or any recognised consumer association, or one or more consumers having the same interest. The complaint may be filed electronically.",
+      "citations": [],
+      "keywords": ["how to file complaint", "consumer complaint", "online complaint", "e-filing"]
+    },
+    {
+      "number": "38",
+      "title": "Procedure on admission of complaint",
+      "content": "The District Commission shall, on admission of a complaint, refer a copy of the admitted complaint, within twenty-one days from the date of its admission to the opposite party concerned, directing him to give his version of the case within thirty days. The District Commission shall ordinarily decide the complaint within three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities and within five months if it requires such analysis.",
+      "citations": [],
+      "keywords": ["complaint procedure", "time limit", "admission"]
+    },
+    {
+      "number": "39",
+      "title": "Findings of District Commission",
+      "content": "Where the District Commission is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services or any unfair trade practices, or claims for compensation under product liability are proved, it shall issue an order to the opposite party directing him to remove the defect, replace the goods, return the price, pay compensation for the loss or injury, discontinue the unfair trade practice, withdraw the goods or services, pay punitive damages, or pay costs.",
+      "citations": [],
+      "keywords": ["consumer relief", "compensation", "replacement", "refund"]
+    },
+    {
+      "number": "47",
+      "title": "Jurisdiction of State Commission",
+      "content": "Subject to the other provisions of this Act, the State Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration exceeds fifty lakh rupees but does not exceed two crore rupees; appeals against the orders of any District Commission within the State; and revision petitions.",
+      "citations": [],
+      "keywords": ["State Commission", "pecuniary jurisdiction", "appeal"]
+    },
+    {
+      "number": "58",
+      "title": "Jurisdiction of National Commission",
+      "content": "Subject to the other provisions of this Act, the National Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration exceeds two crore rupees; appeals against the orders of any State Commission; and revision petitions.",
+      "citations": [],
+      "keywords": ["National Commission", "NCDRC", "pecuniary jurisdiction"]
+    },
+    {
+      "number": "67",
+      "title": "Appeal against orders of National Commission",
+      "content": "Any person, aggrieved by an order made by the National Commission in exercise of its powers conferred by sub-clause (i) or (ii) of clause (a) of sub-section (1) of section 58, may prefer an appeal against such order to the Supreme Court within a period of thirty days from the date of the order.",
+      "citations": [],
+      "keywords": ["appeal to Supreme Court", "NCDRC appeal"]
+    },
+    {
+      "number": "82",
+      "title": "Product liability — applicability and basis",
+      "content": "This Chapter shall apply to every claim for compensation under a product liability action by a complainant for any harm caused by a defective product manufactured by a product manufacturer or serviced by a product service provider or sold by a product seller. A product manufacturer shall be liable in a product liability action, if the product contains a manufacturing defect, or is defective in design, or there is a deviation from manufacturing specifications, or the product does not conform to the express warranty, or the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage.",
+      "citations": [],
+      "keywords": ["product liability", "defective product", "manufacturer liability"]
+    },
+    {
+      "number": "85",
+      "title": "Liability of product service provider",
+      "content": "A product service provider shall be liable in a product liability action, if the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise, or there was an act of omission or commission or negligence or conscious withholding of any information which caused harm.",
+      "citations": [],
+      "keywords": ["product service provider", "deficient service"]
+    }
+  ]
+}

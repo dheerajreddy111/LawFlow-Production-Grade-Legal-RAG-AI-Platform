@@ -1,0 +1,302 @@
+{
+  "act": "Motor Vehicles Act, 1988",
+  "short_title": "MV Act",
+  "year": 1988,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "3",
+      "title": "Necessity for driving licence",
+      "content": "No person shall drive a motor vehicle in any public place unless he holds an effective driving licence authorising him to drive the vehicle, and no person shall so drive a transport vehicle unless his driving licence specifically entitles him to do so.",
+      "citations": [],
+      "keywords": ["driving licence", "licence", "public place", "transport vehicle"]
+    },
+    {
+      "number": "4",
+      "title": "Age limit in connection with driving of motor vehicles",
+      "content": "No person under the age of eighteen years shall drive a motor vehicle in any public place. A person who has attained the age of sixteen years may drive a motor cycle with engine capacity not exceeding fifty cubic centimetres. No person under the age of twenty years shall drive a transport vehicle in any public place.",
+      "citations": [],
+      "keywords": ["minor driving", "age limit", "underage", "sixteen years", "eighteen years", "transport vehicle"]
+    },
+    {
+      "number": "5",
+      "title": "Responsibility of owners of motor vehicles",
+      "content": "No owner or person in charge of a motor vehicle shall cause or permit any person who does not satisfy the provisions of section 3 or section 4 to drive the vehicle.",
+      "citations": [],
+      "keywords": ["owner responsibility", "permit to drive", "owner liability"]
+    },
+    {
+      "number": "8",
+      "title": "Grant of learner's licence",
+      "content": "Any person not disqualified under section 4 from holding a driving licence may apply to the licensing authority for the issue of a learner's licence. The applicant must pass the test prescribed in the Rules and satisfy other requirements relating to age and medical fitness.",
+      "citations": [],
+      "keywords": ["learner licence", "learner's licence", "LL", "licensing authority"]
+    },
+    {
+      "number": "9",
+      "title": "Grant of driving licence",
+      "content": "Any person who is not for the time being disqualified for holding or obtaining a driving licence may apply for the issue of a driving licence. The applicant shall pass the test of competence to drive prescribed by the licensing authority.",
+      "citations": [],
+      "keywords": ["driving licence", "test of competence", "issue of licence", "DL"]
+    },
+    {
+      "number": "10",
+      "title": "Form and contents of licences to drive",
+      "content": "Every driving licence shall be in such form and contain such particulars as may be prescribed. It shall specify the class or classes of vehicles which the holder is entitled to drive.",
+      "citations": [],
+      "keywords": ["licence class", "vehicle class", "form of licence"]
+    },
+    {
+      "number": "14",
+      "title": "Currency of licences to drive motor vehicles",
+      "content": "A learner's licence is effective for six months. A driving licence is effective, except in case of transport vehicles, for twenty years from the date of issue or until the holder attains fifty years, whichever is earlier. For transport vehicles the validity is three years.",
+      "citations": [],
+      "keywords": ["licence validity", "currency of licence", "renewal", "expiry"]
+    },
+    {
+      "number": "19",
+      "title": "Power of licensing authority to disqualify from holding a driving licence",
+      "content": "If a licensing authority is satisfied that the holder of a driving licence is a habitual criminal or drunkard, or has been involved in an offence involving the use of a motor vehicle resulting in serious bodily injury or death, it may disqualify the person from holding a driving licence and revoke the licence.",
+      "citations": [],
+      "keywords": ["disqualification", "revocation of licence", "habitual criminal", "drunkard"]
+    },
+    {
+      "number": "39",
+      "title": "Necessity for registration",
+      "content": "No person shall drive any motor vehicle and no owner of a motor vehicle shall cause or permit the vehicle to be driven in any public place or in any other place unless the vehicle is registered in accordance with this Chapter and the certificate of registration of the vehicle has not been suspended or cancelled and the vehicle carries a registration mark displayed in the prescribed manner.",
+      "citations": [],
+      "keywords": ["vehicle registration", "registration", "RC", "certificate of registration", "registration mark"]
+    },
+    {
+      "number": "41",
+      "title": "Registration, how to be made",
+      "content": "An application for registration shall be made by or on behalf of the owner of the motor vehicle in such form and manner accompanied by such documents and fees as may be prescribed, to the registering authority within whose jurisdiction the owner has the residence or place of business.",
+      "citations": [],
+      "keywords": ["registration procedure", "registration application", "registering authority"]
+    },
+    {
+      "number": "50",
+      "title": "Transfer of ownership",
+      "content": "Where the ownership of any motor vehicle registered under this Chapter is transferred, the transferor shall report the transfer to the registering authority within fourteen days, and the transferee shall report the transfer to the registering authority within thirty days. The registering authority shall make the entry of transfer of ownership in the certificate of registration.",
+      "citations": [],
+      "keywords": ["transfer of ownership", "sale of vehicle", "RC transfer"]
+    },
+    {
+      "number": "56",
+      "title": "Certificate of fitness of transport vehicles",
+      "content": "Subject to the provisions of sections 59 and 60, a transport vehicle shall not be deemed to be validly registered unless it carries a certificate of fitness in the prescribed form, issued by the prescribed authority.",
+      "citations": [],
+      "keywords": ["fitness certificate", "transport vehicle", "fitness", "FC"]
+    },
+    {
+      "number": "66",
+      "title": "Necessity for permits",
+      "content": "No owner of a motor vehicle shall use or permit the use of the vehicle as a transport vehicle in any public place, whether or not such vehicle is actually carrying passengers or goods, save in accordance with the conditions of a permit granted or countersigned by a Regional or State Transport Authority.",
+      "citations": [],
+      "keywords": ["permit", "transport permit", "STA", "RTA", "passenger permit", "goods permit"]
+    },
+    {
+      "number": "100",
+      "title": "Necessity for permit",
+      "content": "Save as otherwise provided, no person shall use, or permit the use of, a transport vehicle in any public place save in accordance with the conditions of a permit issued or countersigned by a Regional or State Transport Authority.",
+      "citations": [],
+      "keywords": ["transport permit", "public service vehicle"]
+    },
+    {
+      "number": "112",
+      "title": "Limits of speed",
+      "content": "No person shall drive a motor vehicle or cause or allow a motor vehicle to be driven in any public place at a speed exceeding the maximum speed or below the minimum speed fixed for the vehicle by or under this Act.",
+      "citations": [],
+      "keywords": ["speed limit", "over-speeding", "speeding", "maximum speed"]
+    },
+    {
+      "number": "113",
+      "title": "Limits of weight and limitations on use",
+      "content": "The State Government may prescribe the conditions for issue of permits for transport vehicles by the State or Regional Transport Authorities and the maximum laden weight or maximum axle weight of any motor vehicle on any specified road.",
+      "citations": [],
+      "keywords": ["overloading", "axle weight", "laden weight", "vehicle weight"]
+    },
+    {
+      "number": "119",
+      "title": "Duty to obey traffic signs",
+      "content": "Every driver of a motor vehicle shall drive the vehicle in conformity with any indication given by traffic signs and shall comply with all directions given by any police officer for the time being engaged in the regulation of traffic.",
+      "citations": [],
+      "keywords": ["traffic signs", "traffic signals", "police directions", "traffic rules"]
+    },
+    {
+      "number": "122",
+      "title": "Leaving vehicle in dangerous position",
+      "content": "No person in charge of a motor vehicle shall cause or allow the vehicle to remain stationary in such a position or in such condition or in such circumstances as to cause or be likely to cause danger, obstruction or undue inconvenience to other users of the road or to the passengers.",
+      "citations": [],
+      "keywords": ["dangerous parking", "obstruction", "unsafe parking"]
+    },
+    {
+      "number": "129",
+      "title": "Wearing of protective headgear",
+      "content": "Every person driving or riding on a motor cycle of any class shall, while in a public place, wear protective headgear conforming to prescribed standards, subject to exemptions for persons of the Sikh religion wearing a turban.",
+      "citations": [],
+      "keywords": ["helmet", "protective headgear", "motorcycle", "two wheeler safety"]
+    },
+    {
+      "number": "130",
+      "title": "Duty to produce licence and certificate of registration",
+      "content": "The driver of a motor vehicle in any public place shall, on demand by any police officer in uniform, produce his driving licence and the certificate of registration for examination. Where the driver is unable to produce these documents at the time of demand, he shall produce them at such place and within such period as the officer may specify.",
+      "citations": [],
+      "keywords": ["produce licence", "police check", "show RC", "document check"]
+    },
+    {
+      "number": "134",
+      "title": "Duty of driver in case of accident and injury to a person",
+      "content": "When any person is injured or any property of a third party is damaged as a result of an accident involving a motor vehicle, the driver of the vehicle or other person in charge shall take all reasonable steps to secure medical attention for the injured person, give information about the accident to the nearest police station within twenty-four hours, and give the prescribed information to the insurer.",
+      "citations": [],
+      "keywords": ["accident reporting", "duty after accident", "hit and run", "medical aid"]
+    },
+    {
+      "number": "138",
+      "title": "Power of State Government to make rules",
+      "content": "The State Government may make rules for the purpose of carrying into effect the provisions of this Chapter, including rules governing licensing, registration, fitness, permits and traffic regulation within the State.",
+      "citations": [],
+      "keywords": ["state rules", "state government powers", "regulations"]
+    },
+    {
+      "number": "140",
+      "title": "Liability to pay compensation in certain cases on the principle of no fault",
+      "content": "Where the death or permanent disablement of any person has resulted from an accident arising out of the use of a motor vehicle, the owner of the vehicle shall be liable to pay compensation in respect of such death or disablement in accordance with the provisions of this section. The claimant shall not be required to plead and establish that the death or disablement was due to any wrongful act or neglect.",
+      "citations": [],
+      "keywords": ["no fault compensation", "liability without negligence", "permanent disablement"]
+    },
+    {
+      "number": "146",
+      "title": "Necessity for insurance against third-party risks",
+      "content": "No person shall use, except as a passenger, or cause or allow any other person to use, a motor vehicle in a public place, unless there is in force in relation to the use of the vehicle by that person or other person, as the case may be, a policy of insurance complying with the requirements of this Chapter.",
+      "citations": [],
+      "keywords": ["third party insurance", "compulsory insurance", "no insurance penalty", "mandatory insurance"]
+    },
+    {
+      "number": "147",
+      "title": "Requirements of policies and limits of liability",
+      "content": "Every policy of insurance under this Chapter shall be a policy issued by an authorised insurer, insure the person or persons specified in the policy against any liability incurred in respect of the death of or bodily injury to any person, including owners of goods or his authorised representative carried in the vehicle, caused by or arising out of the use of the vehicle in a public place.",
+      "citations": [],
+      "keywords": ["insurance policy", "third party liability", "policy requirements"]
+    },
+    {
+      "number": "149",
+      "title": "Duty of insurer to satisfy judgments against persons insured in respect of third party risks",
+      "content": "If, after a certificate of insurance has been issued under section 147(3), judgment in respect of any liability covered by the policy is obtained against any person insured by the policy, then the insurer shall, notwithstanding that the insurer may be entitled to avoid or cancel the policy, pay to the person entitled to the benefit of the decree any sum payable in respect of the liability.",
+      "citations": [
+        "United India Insurance Co. Ltd. v. Lehru, (2003) 3 SCC 338"
+      ],
+      "keywords": ["insurer liability", "third party claim", "judgment", "insurance payout"]
+    },
+    {
+      "number": "158",
+      "title": "Production of certain certificates, licence and permit in certain cases",
+      "content": "Any person driving a motor vehicle in any public place shall, on demand by any police officer in uniform, produce his driving licence, the certificate of insurance, the certificate of registration, the certificate of fitness if applicable, and the permit if applicable.",
+      "citations": [],
+      "keywords": ["document check", "produce papers", "verification"]
+    },
+    {
+      "number": "161",
+      "title": "Special provisions as to compensation in case of hit and run motor accident",
+      "content": "Notwithstanding anything contained in this Act, where death or grievous hurt to any person results from a hit and run motor accident, payment in accordance with the prescribed scheme shall be made by the Central Government out of the Solatium Fund.",
+      "citations": [],
+      "keywords": ["hit and run", "solatium fund", "compensation scheme"]
+    },
+    {
+      "number": "163A",
+      "title": "Special provisions as to payment of compensation on structured formula basis",
+      "content": "The owner of the motor vehicle or the authorised insurer shall be liable to pay compensation in the case of death or permanent disablement due to an accident arising out of the use of a motor vehicle, in accordance with the Second Schedule to the Act. The claimant shall not be required to plead or establish negligence on the part of the owner or driver.",
+      "citations": [],
+      "keywords": ["no fault liability", "structured formula", "second schedule", "compensation"]
+    },
+    {
+      "number": "166",
+      "title": "Application for compensation",
+      "content": "An application for compensation arising out of an accident involving the death of, or bodily injury to, persons, or damage to property, may be made by the person injured, the owner of the property, the legal representatives of the deceased, or by an agent duly authorised, to the Claims Tribunal having jurisdiction where the accident occurred or where the claimant resides.",
+      "citations": [
+        "Sarla Verma v. Delhi Transport Corporation, (2009) 6 SCC 121",
+        "National Insurance Co. Ltd. v. Pranay Sethi, (2017) 16 SCC 680"
+      ],
+      "keywords": ["accident compensation", "claims tribunal", "MACT", "legal representatives", "death or injury"]
+    },
+    {
+      "number": "168",
+      "title": "Award of the Claims Tribunal",
+      "content": "On receipt of an application for compensation, the Claims Tribunal shall, after giving notice of the application to the insurer and after giving the parties an opportunity of being heard, hold an inquiry into the claim and may make an award determining the amount of compensation which appears to it to be just, specifying the person or persons to whom compensation shall be paid.",
+      "citations": [
+        "Pranay Sethi (2017) 16 SCC 680"
+      ],
+      "keywords": ["tribunal award", "just compensation", "MACT award"]
+    },
+    {
+      "number": "173",
+      "title": "Appeals",
+      "content": "Subject to the provisions of sub-section (2), any person aggrieved by an award of a Claims Tribunal may, within ninety days from the date of the award, prefer an appeal to the High Court. No appeal shall lie against any award of a Claims Tribunal if the amount in dispute in the appeal is less than ten thousand rupees.",
+      "citations": [],
+      "keywords": ["appeal", "high court", "tribunal appeal"]
+    },
+    {
+      "number": "177",
+      "title": "General provision for punishment of offences",
+      "content": "Whoever contravenes any provision of this Act or of any rule, regulation or notification made thereunder shall, if no other penalty is provided for the offence, be punishable for the first offence with a fine of five hundred rupees, and for any second or subsequent offence with a fine of one thousand five hundred rupees.",
+      "citations": [],
+      "keywords": ["general penalty", "fine", "offence"]
+    },
+    {
+      "number": "184",
+      "title": "Driving dangerously",
+      "content": "Whoever drives a motor vehicle in any public place in a manner dangerous to the public, or which causes a sense of alarm or distress to occupants of the vehicle or to other users of the road, shall be punishable for the first offence with imprisonment up to one year or with fine up to five thousand rupees, or both, and for any subsequent offence committed within three years, with imprisonment up to two years or with fine up to ten thousand rupees, or both.",
+      "citations": [],
+      "keywords": ["dangerous driving", "rash driving", "reckless driving"]
+    },
+    {
+      "number": "185",
+      "title": "Driving by a drunken person or under influence of drugs",
+      "content": "Whoever, while driving a motor vehicle, has alcohol exceeding 30 mg per 100 ml of blood detected in a test by a breath analyser, or is under the influence of a drug to such an extent as to be incapable of exercising proper control, shall be punishable for the first offence with imprisonment up to six months or with fine of ten thousand rupees, or both, and for a subsequent offence within three years, with imprisonment up to two years or with fine of fifteen thousand rupees, or both.",
+      "citations": [],
+      "keywords": ["drunk driving", "drink driving", "alcohol", "under influence", "DUI", "breath analyser"]
+    },
+    {
+      "number": "189",
+      "title": "Racing and trials of speed",
+      "content": "Whoever without the written consent of the State Government permits or takes part in a race or trial of speed of any kind between motor vehicles in any public place shall be punishable with imprisonment up to three months or with fine up to five hundred rupees, or both.",
+      "citations": [],
+      "keywords": ["racing", "speed trial", "street racing"]
+    },
+    {
+      "number": "192",
+      "title": "Using vehicle without registration",
+      "content": "Whoever drives a motor vehicle or causes or allows a motor vehicle to be used in contravention of the provisions of section 39 shall be punishable for the first offence with a fine of two thousand to five thousand rupees, and for a subsequent offence with imprisonment up to one year or with fine of five thousand to ten thousand rupees, or both.",
+      "citations": [],
+      "keywords": ["unregistered vehicle", "no registration penalty"]
+    },
+    {
+      "number": "194",
+      "title": "Driving vehicle exceeding permissible weight",
+      "content": "Whoever drives a motor vehicle or causes or allows the vehicle to be driven in contravention of the provisions of section 113 shall be punishable with a fine of twenty thousand rupees, together with an additional amount of two thousand rupees per tonne of excess load, and for unloading of such excess load.",
+      "citations": [],
+      "keywords": ["overloading", "excess load", "weight penalty"]
+    },
+    {
+      "number": "194D",
+      "title": "Penalty for not wearing protective headgear",
+      "content": "Whoever drives or rides a motor cycle without wearing protective headgear in contravention of section 129 shall be punishable with a fine of one thousand rupees and disqualification for holding a licence for three months.",
+      "citations": [],
+      "keywords": ["helmet penalty", "no helmet", "fine", "disqualification"]
+    },
+    {
+      "number": "196",
+      "title": "Driving uninsured vehicle",
+      "content": "Whoever drives a motor vehicle or causes or allows a motor vehicle to be driven in contravention of section 146 shall be punishable for the first offence with imprisonment up to three months or with fine of two thousand rupees, or both, and for a subsequent offence with imprisonment up to three months or with fine of four thousand rupees, or both.",
+      "citations": [],
+      "keywords": ["no insurance", "uninsured vehicle", "insurance penalty"]
+    },
+    {
+      "number": "199A",
+      "title": "Offences by juveniles",
+      "content": "Where an offence under this Act has been committed by a juvenile, the guardian of such juvenile or the owner of the motor vehicle shall be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly, and the juvenile shall be punishable with imprisonment up to three years.",
+      "citations": [],
+      "keywords": ["juvenile driving", "minor offence", "guardian liability"]
+    }
+  ]
+}

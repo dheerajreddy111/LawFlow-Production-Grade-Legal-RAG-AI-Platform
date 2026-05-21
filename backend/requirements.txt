@@ -1,0 +1,62 @@
+# Web framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+
+# Data validation
+pydantic>=2.0.0
+
+# File handling
+python-multipart>=0.0.7
+python-dotenv>=1.0.0
+
+# Document parsing
+PyMuPDF>=1.23.0            # PDF text extraction (import fitz) + page-image rendering for OCR
+python-docx>=1.1.0         # DOCX text extraction (import docx)
+openpyxl>=3.1.0            # Excel (.xlsx) ingestion — sheet/row-aware
+Pillow>=10.0.0             # Image handling for OCR (PNG/JPG, page rasters)
+rapidocr-onnxruntime>=1.4.0  # OCR for scanned PDFs / images (uses onnxruntime, no system binary)
+trafilatura>=2.0.0         # URL ingestion: legal-page extraction with boilerplate removal
+
+# --- RAG stack (install when implementing rag/) ---
+anthropic>=0.25.0              # app/rag/engine.py — Claude LLM provider
+groq>=0.30.0,<1.0.0            # app/rag/engine.py — capped <1.0 because
+                               # langchain-groq pins groq<1.0; bump both
+                               # together when langchain-groq lifts the cap.
+# openai>=1.0.0                # app/rag/engine.py — OpenAIProvider (later)
+chromadb>=0.4.0                # app/rag/vector_store.py — persistent vector store
+sentence-transformers>=2.2.0   # app/rag/embeddings.py — BAAI/bge-small-en-v1.5
+                               # + app/rag/cross_encoder.py — BAAI/bge-reranker (opt-in)
+rank-bm25>=0.2.2               # app/rag/bm25.py — lexical retrieval for hybrid search
+
+# --- LangChain / LangGraph / LangSmith (selective, opt-in) ---
+# Used by app/integrations/lc/* and app/graphs/* — wraps existing
+# VectorStore / providers / prompts without replacing them. LangSmith
+# tracing activates only when LANGCHAIN_TRACING_V2=true and LANGCHAIN_API_KEY
+# are set; otherwise these are import-only and no-op at runtime.
+langchain-core>=1.0.0,<2.0.0       # Runnables, callbacks, prompt templates, BaseRetriever
+langchain>=1.0.0,<2.0.0            # Chain composition helpers
+langchain-anthropic>=1.0.0,<2.0.0  # ChatAnthropic wrapper (optional path)
+langchain-groq>=1.0.0,<2.0.0       # ChatGroq wrapper (optional path)
+langgraph>=1.0.0,<2.0.0            # Advanced RAG graph (opt-in via RAG_USE_LANGGRAPH)
+langsmith>=0.2.0                   # Tracing client (no-op when keys absent)
+
+# --- Auth / persistence ---
+# Used by app/auth/* and app/db/*. SQLite for dev/single-node deploys; the
+# SQLAlchemy models are dialect-agnostic so a future move to Postgres only
+# requires changing DATABASE_URL (and a driver). bcrypt is pinned via
+# passlib's extras to avoid runtime backend selection surprises.
+sqlalchemy[asyncio]>=2.0.0
+aiosqlite>=0.19.0
+alembic>=1.13.0               # schema migrations; replaces Base.metadata.create_all
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.0.0,<5.0.0          # passlib bcrypt backend; <5 avoids the recent API break
+PyJWT[crypto]>=2.8.0          # JWT sign/verify for access + refresh tokens
+email-validator>=2.0.0        # pydantic EmailStr
+
+# --- Test / regression suite ---
+pytest>=8.0
+pytest-asyncio>=0.23
+httpx>=0.27                   # async TestClient + AsyncClient for auth flow tests
+
+# --- Dev / CI tooling ---
+ruff>=0.6.0                   # lint (runs in CI via .github/workflows/ci.yml)

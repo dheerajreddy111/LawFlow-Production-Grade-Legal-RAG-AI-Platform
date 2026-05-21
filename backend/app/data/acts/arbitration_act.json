@@ -1,0 +1,85 @@
+{
+  "act": "Arbitration and Conciliation Act, 1996",
+  "short_title": "Arbitration Act",
+  "year": 1996,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "7",
+      "title": "Arbitration agreement",
+      "content": "In this Part, 'arbitration agreement' means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement. An arbitration agreement shall be in writing. An agreement is in writing if it is contained in a document signed by the parties, an exchange of letters, telex, telegrams or other means of telecommunication including communication through electronic means which provide a record of the agreement, or an exchange of statements of claim and defence in which the existence of the agreement is alleged by one party and not denied by the other.",
+      "citations": [],
+      "keywords": ["arbitration agreement", "arbitration clause", "written agreement"]
+    },
+    {
+      "number": "8",
+      "title": "Power to refer parties to arbitration where there is an arbitration agreement",
+      "content": "A judicial authority before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party to the arbitration agreement or any person claiming through or under him, so applies not later than the date of submitting his first statement on the substance of the dispute, then, notwithstanding any judgment, decree or order of the Supreme Court or any Court, refer the parties to arbitration unless it finds that prima facie no valid arbitration agreement exists.",
+      "citations": ["Vidya Drolia v. Durga Trading Corporation, (2021) 2 SCC 1"],
+      "keywords": ["reference to arbitration", "section 8", "judicial authority"]
+    },
+    {
+      "number": "9",
+      "title": "Interim measures by Court",
+      "content": "A party may, before or during arbitral proceedings or at any time after the making of the arbitral award but before it is enforced in accordance with section 36, apply to a court for an interim measure of protection in respect of any matter and the Court shall have the same power for making orders as it has for the purpose of, and in relation to, any proceedings before it.",
+      "citations": [],
+      "keywords": ["interim measures", "section 9", "court protection"]
+    },
+    {
+      "number": "11",
+      "title": "Appointment of arbitrators",
+      "content": "A person of any nationality may be an arbitrator, unless otherwise agreed by the parties. The parties are free to agree on a procedure for appointing the arbitrator or arbitrators. Failing any such agreement, in an arbitration with three arbitrators, each party shall appoint one arbitrator, and the two appointed arbitrators shall appoint the third arbitrator who shall act as the presiding arbitrator. Where the parties fail to agree on the appointment, the appointment shall be made on an application of the party by the Supreme Court or the High Court, as the case may be, or any person or institution designated by such Court.",
+      "citations": [],
+      "keywords": ["appointment of arbitrator", "section 11", "presiding arbitrator"]
+    },
+    {
+      "number": "12",
+      "title": "Grounds for challenge",
+      "content": "When a person is approached in connection with his possible appointment as an arbitrator, he shall disclose in writing any circumstances likely to give rise to justifiable doubts as to his independence or impartiality. The grounds stated in the Fifth and Seventh Schedules disqualify a person from being appointed as an arbitrator.",
+      "citations": ["TRF Ltd. v. Energo Engineering Projects Ltd., (2017) 8 SCC 377"],
+      "keywords": ["challenge to arbitrator", "independence", "impartiality", "disclosure"]
+    },
+    {
+      "number": "16",
+      "title": "Competence of arbitral tribunal to rule on its jurisdiction",
+      "content": "The arbitral tribunal may rule on its own jurisdiction, including ruling on any objections with respect to the existence or validity of the arbitration agreement, and for that purpose, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause.",
+      "citations": [],
+      "keywords": ["kompetenz-kompetenz", "section 16", "jurisdiction"]
+    },
+    {
+      "number": "17",
+      "title": "Interim measures ordered by arbitral tribunal",
+      "content": "A party may, during the arbitral proceedings, apply to the arbitral tribunal for any of the interim measures of protection, namely, for the preservation, interim custody or sale of any goods which are the subject-matter of the arbitration agreement; for securing the amount in dispute in the arbitration; for the detention, preservation or inspection of any property or thing which is the subject-matter of the dispute in arbitration; for interim injunction or the appointment of a receiver; for such other interim measure of protection as may appear to the arbitral tribunal to be just and convenient.",
+      "citations": [],
+      "keywords": ["interim measures tribunal", "section 17", "tribunal injunction"]
+    },
+    {
+      "number": "29A",
+      "title": "Time limit for arbitral award",
+      "content": "The award in matters other than international commercial arbitration shall be made by the arbitral tribunal within a period of twelve months from the date of completion of pleadings under sub-section (4) of section 23. The parties may, by consent, extend the period for making the award for a further period not exceeding six months. If the award is not made within the said period, the mandate of the arbitrator(s) shall terminate unless the Court has, either prior to or after the expiry of the period so specified, extended the period.",
+      "citations": [],
+      "keywords": ["12 months", "time limit", "extension", "29A"]
+    },
+    {
+      "number": "34",
+      "title": "Application for setting aside arbitral award",
+      "content": "Recourse to a Court against an arbitral award may be made only by an application for setting aside such award in accordance with sub-section (2) and sub-section (3). An arbitral award may be set aside by the Court only if the party making the application establishes on the basis of the record of the arbitral tribunal that it was under some incapacity; the arbitration agreement is not valid under the law; the party was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration; the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties; or the award is in conflict with the public policy of India.",
+      "citations": ["Ssangyong Engineering & Construction Co. Ltd. v. NHAI, (2019) 15 SCC 131"],
+      "keywords": ["setting aside award", "section 34", "challenge to award", "public policy"]
+    },
+    {
+      "number": "36",
+      "title": "Enforcement",
+      "content": "Where the time for making an application to set aside the arbitral award under section 34 has expired, then, subject to the provisions of sub-section (2), such award shall be enforced in accordance with the provisions of the Code of Civil Procedure, 1908, in the same manner as if it were a decree of the Court. The filing of an application to set aside an arbitral award under section 34 shall not by itself render that award unenforceable, unless the Court grants an order of stay of the operation of the said arbitral award.",
+      "citations": [],
+      "keywords": ["enforcement of award", "execution", "decree"]
+    },
+    {
+      "number": "37",
+      "title": "Appealable orders",
+      "content": "Notwithstanding anything contained in any other law for the time being in force, an appeal shall lie from the following orders (and from no others) to the Court authorised by law to hear appeals from original decrees of the Court passing the order: refusing to refer the parties to arbitration under section 8; granting or refusing to grant any measure under section 9; setting aside or refusing to set aside an arbitral award under section 34. An appeal shall also lie to a Court from an order of the arbitral tribunal accepting a plea under sub-section (2) or sub-section (3) of section 16 or granting or refusing to grant an interim measure under section 17.",
+      "citations": [],
+      "keywords": ["appeal", "section 37", "appealable orders"]
+    }
+  ]
+}

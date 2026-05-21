@@ -1,0 +1,134 @@
+{
+  "act": "Indian Contract Act, 1872",
+  "short_title": "Contract Act",
+  "year": 1872,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "10",
+      "title": "What agreements are contracts",
+      "content": "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void. Nothing herein contained shall affect any law in force in India, and not hereby expressly repealed, by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents.",
+      "citations": [],
+      "keywords": ["contract", "agreement", "essentials of contract", "free consent", "lawful consideration"]
+    },
+    {
+      "number": "11",
+      "title": "Who are competent to contract",
+      "content": "Every person is competent to contract who is of the age of majority according to the law to which he is subject, and who is of sound mind, and is not disqualified from contracting by any law to which he is subject.",
+      "citations": ["Mohori Bibee v. Dharmodas Ghose, (1903) ILR 30 Cal 539 (PC)"],
+      "keywords": ["competence", "minor", "majority", "sound mind", "Mohori Bibee"]
+    },
+    {
+      "number": "13",
+      "title": "Consent defined",
+      "content": "Two or more persons are said to consent when they agree upon the same thing in the same sense.",
+      "citations": [],
+      "keywords": ["consent", "consensus ad idem", "meeting of minds"]
+    },
+    {
+      "number": "14",
+      "title": "Free consent defined",
+      "content": "Consent is said to be free when it is not caused by coercion, as defined in section 15, or undue influence, as defined in section 16, or fraud, as defined in section 17, or misrepresentation, as defined in section 18, or mistake, subject to the provisions of sections 20, 21 and 22. Consent is said to be so caused when it would not have been given but for the existence of such coercion, undue influence, fraud, misrepresentation or mistake.",
+      "citations": [],
+      "keywords": ["free consent", "coercion", "undue influence", "fraud", "misrepresentation"]
+    },
+    {
+      "number": "15",
+      "title": "Coercion defined",
+      "content": "Coercion is the committing, or threatening to commit, any act forbidden by the Indian Penal Code, or the unlawful detaining, or threatening to detain, any property, to the prejudice of any person whatever, with the intention of causing any person to enter into an agreement.",
+      "citations": [],
+      "keywords": ["coercion", "duress", "threat", "unlawful detention"]
+    },
+    {
+      "number": "16",
+      "title": "Undue influence defined",
+      "content": "A contract is said to be induced by 'undue influence' where the relations subsisting between the parties are such that one of the parties is in a position to dominate the will of the other and uses that position to obtain an unfair advantage over the other. A person is deemed to be in a position to dominate the will of another where he holds a real or apparent authority over the other, or stands in a fiduciary relation to the other, or makes a contract with a person whose mental capacity is temporarily or permanently affected by reason of age, illness, or mental or bodily distress.",
+      "citations": [],
+      "keywords": ["undue influence", "fiduciary", "domination", "unfair advantage"]
+    },
+    {
+      "number": "17",
+      "title": "Fraud defined",
+      "content": "Fraud means and includes any of the following acts committed by a party to a contract, or with his connivance, or by his agent, with intent to deceive another party thereto or his agent, or to induce him to enter into the contract: the suggestion, as a fact, of that which is not true, by one who does not believe it to be true; the active concealment of a fact by one having knowledge or belief of the fact; a promise made without any intention of performing it; any other act fitted to deceive; any such act or omission as the law specially declares to be fraudulent. Mere silence as to facts likely to affect the willingness of a person to enter into a contract is not fraud, unless the circumstances of the case are such that, regard being had to them, it is the duty of the person keeping silence to speak, or unless his silence is, in itself, equivalent to speech.",
+      "citations": [],
+      "keywords": ["fraud", "deceit", "active concealment", "false statement"]
+    },
+    {
+      "number": "18",
+      "title": "Misrepresentation defined",
+      "content": "Misrepresentation means and includes the positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true; any breach of duty which, without an intent to deceive, gains an advantage to the person committing it, or any one claiming under him, by misleading another to his prejudice or to the prejudice of any one claiming under him; causing, however innocently, a party to an agreement to make a mistake as to the substance of the thing which is the subject of the agreement.",
+      "citations": [],
+      "keywords": ["misrepresentation", "innocent misstatement"]
+    },
+    {
+      "number": "19",
+      "title": "Voidability of agreements without free consent",
+      "content": "When consent to an agreement is caused by coercion, fraud or misrepresentation, the agreement is a contract voidable at the option of the party whose consent was so caused. A party to a contract whose consent was caused by fraud or misrepresentation may, if he thinks fit, insist that the contract shall be performed, and that he shall be put in the position in which he would have been if the representations made had been true.",
+      "citations": [],
+      "keywords": ["voidable", "voidable contract", "rescission"]
+    },
+    {
+      "number": "20",
+      "title": "Agreement void where both parties are under mistake as to matter of fact",
+      "content": "Where both the parties to an agreement are under a mistake as to a matter of fact essential to the agreement, the agreement is void. An erroneous opinion as to the value of the thing which forms the subject-matter of the agreement, is not to be deemed a mistake as to a matter of fact.",
+      "citations": [],
+      "keywords": ["mistake of fact", "mutual mistake", "void"]
+    },
+    {
+      "number": "23",
+      "title": "What considerations and objects are lawful and what not",
+      "content": "The consideration or object of an agreement is lawful, unless it is forbidden by law; or is of such a nature that, if permitted, it would defeat the provisions of any law; or is fraudulent; or involves or implies injury to the person or property of another; or the Court regards it as immoral, or opposed to public policy. In each of these cases, the consideration or object of an agreement is said to be unlawful. Every agreement of which the object or consideration is unlawful is void.",
+      "citations": [],
+      "keywords": ["lawful object", "public policy", "void", "immoral consideration"]
+    },
+    {
+      "number": "25",
+      "title": "Agreement without consideration, void",
+      "content": "An agreement made without consideration is void, unless it is expressed in writing and registered under the law for the time being in force for the registration of documents, and is made on account of natural love and affection between parties standing in a near relation to each other; or it is a promise to compensate, wholly or in part, a person who has already voluntarily done something for the promisor; or it is a promise, made in writing and signed by the person to be charged therewith, to pay wholly or in part a debt of which the creditor might have enforced payment but for the law for the limitation of suits.",
+      "citations": [],
+      "keywords": ["consideration", "no consideration", "void", "natural love and affection"]
+    },
+    {
+      "number": "27",
+      "title": "Agreement in restraint of trade, void",
+      "content": "Every agreement by which any one is restrained from exercising a lawful profession, trade or business of any kind, is to that extent void. Exception: One who sells the goodwill of a business may agree with the buyer to refrain from carrying on a similar business within specified local limits.",
+      "citations": ["Niranjan Shankar Golikari v. Century Spinning, AIR 1967 SC 1098"],
+      "keywords": ["restraint of trade", "non-compete", "negative covenant"]
+    },
+    {
+      "number": "28",
+      "title": "Agreements in restraint of legal proceedings, void",
+      "content": "Every agreement, by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary tribunals, or which limits the time within which he may thus enforce his rights, is void to that extent. Exception 1: Arbitration agreements are not affected. Exception 2: Agreements limiting time within which a party may enforce a right are valid where they conform to the Limitation Act.",
+      "citations": [],
+      "keywords": ["restraint of legal proceedings", "ouster of jurisdiction", "arbitration exception"]
+    },
+    {
+      "number": "29",
+      "title": "Agreements void for uncertainty",
+      "content": "Agreements, the meaning of which is not certain, or capable of being made certain, are void.",
+      "citations": [],
+      "keywords": ["uncertainty", "void", "vague agreement"]
+    },
+    {
+      "number": "56",
+      "title": "Agreement to do impossible act",
+      "content": "An agreement to do an act impossible in itself is void. A contract to do an act which, after the contract is made, becomes impossible, or, by reason of some event which the promisor could not prevent, unlawful, becomes void when the act becomes impossible or unlawful. This is the doctrine of frustration of contract.",
+      "citations": ["Satyabrata Ghose v. Mugneeram Bangur, AIR 1954 SC 44"],
+      "keywords": ["frustration", "impossibility", "supervening impossibility", "void"]
+    },
+    {
+      "number": "73",
+      "title": "Compensation for loss or damage caused by breach of contract",
+      "content": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+      "citations": ["Hadley v. Baxendale, (1854) 9 Ex 341 (followed in India)"],
+      "keywords": ["damages", "breach of contract", "compensation", "remoteness", "Hadley v Baxendale"]
+    },
+    {
+      "number": "74",
+      "title": "Compensation for breach of contract where penalty stipulated for",
+      "content": "When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or, as the case may be, the penalty stipulated for.",
+      "citations": ["Kailash Nath Associates v. DDA, (2015) 4 SCC 136"],
+      "keywords": ["liquidated damages", "penalty clause", "reasonable compensation"]
+    }
+  ]
+}

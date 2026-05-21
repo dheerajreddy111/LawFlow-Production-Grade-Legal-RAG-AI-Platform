@@ -1,0 +1,64 @@
+{
+  "act": "Patents Act, 1970",
+  "short_title": "Patents Act",
+  "year": 1970,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "2",
+      "title": "Definitions — invention, patentable invention",
+      "content": "In this Act, unless the context otherwise requires, 'invention' means a new product or process involving an inventive step and capable of industrial application; 'patentable invention' means an invention which is patentable in accordance with the provisions of this Act; 'inventive step' means a feature of an invention that involves technical advance as compared to the existing knowledge or having economic significance or both and that makes the invention not obvious to a person skilled in the art.",
+      "citations": [],
+      "keywords": ["invention", "patentable", "inventive step", "novelty"]
+    },
+    {
+      "number": "3",
+      "title": "What are not inventions",
+      "content": "The following are not inventions within the meaning of this Act: an invention which is frivolous or which claims anything obviously contrary to well established natural laws; an invention the primary or intended use or commercial exploitation of which could be contrary to public order or morality or which causes serious prejudice to human, animal or plant life or health or to the environment; the mere discovery of a scientific principle or the formulation of an abstract theory or discovery of any living thing or non-living substances occurring in nature; the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance; mathematical or business method or a computer programme per se or algorithms; literary, dramatic, musical or artistic work; mere scheme or rule or method of performing mental act or method of playing game; presentation of information; method of agriculture or horticulture; any process for the medicinal, surgical, curative, prophylactic, diagnostic, therapeutic or other treatment of human beings; plants and animals in whole or any part thereof other than micro-organisms.",
+      "citations": ["Novartis AG v. Union of India, (2013) 6 SCC 1"],
+      "keywords": ["not inventions", "Section 3", "patentability", "Novartis"]
+    },
+    {
+      "number": "6",
+      "title": "Persons entitled to apply for patents",
+      "content": "Subject to the provisions contained in section 134, an application for a patent for an invention may be made by any person claiming to be the true and first inventor of the invention; any person being the assignee of the person claiming to be the true and first inventor in respect of the right to make such an application; by the legal representative of any deceased person who immediately before his death was entitled to make such an application.",
+      "citations": [],
+      "keywords": ["who can apply", "inventor", "assignee", "patent application"]
+    },
+    {
+      "number": "53",
+      "title": "Term of patent",
+      "content": "Subject to the provisions of this Act, the term of every patent granted after the commencement of the Patents (Amendment) Act, 2002, and the term of every patent which has not expired and has not ceased to have effect, on the date of such commencement, shall be twenty years from the date of filing of the application for the patent.",
+      "citations": [],
+      "keywords": ["term", "20 years", "patent term"]
+    },
+    {
+      "number": "64",
+      "title": "Revocation of patents",
+      "content": "Subject to the provisions contained in this Act, a patent, whether granted before or after the commencement of this Act, may, on the petition of any person interested or of the Central Government or on a counter-claim in a suit for infringement of the patent, be revoked by the Appellate Board or High Court on grounds including: that the invention claimed in any claim of the complete specification was claimed in a valid claim of earlier priority date contained in the complete specification of another patent; that the patent was granted on the application of a person not entitled under the provisions of this Act to apply therefor; that the patent was obtained wrongfully in contravention of the rights of the petitioner or any person under or through whom he claims; that the subject of any claim of the complete specification is not an invention within the meaning of this Act; that the invention so far as claimed in any claim of the complete specification is not new; that the invention so far as claimed in any claim of the complete specification is obvious or does not involve any inventive step; that the invention, so far as claimed in any claim of the complete specification, is not useful.",
+      "citations": [],
+      "keywords": ["revocation", "patent revocation", "grounds"]
+    },
+    {
+      "number": "84",
+      "title": "Compulsory licences",
+      "content": "At any time after the expiration of three years from the date of the grant of a patent, any person interested may make an application to the Controller for grant of compulsory licence on patent on any of the following grounds, namely: that the reasonable requirements of the public with respect to the patented invention have not been satisfied; or that the patented invention is not available to the public at a reasonably affordable price; or that the patented invention is not worked in the territory of India.",
+      "citations": ["Bayer Corporation v. Natco Pharma, (Compulsory Licence on Nexavar)"],
+      "keywords": ["compulsory licence", "Section 84", "public requirements", "Bayer Natco"]
+    },
+    {
+      "number": "107",
+      "title": "Defences, etc., in suits for infringement",
+      "content": "In any suit for infringement of a patent every ground on which it may be revoked under section 64 shall be available as a ground for defence. In any suit for infringement of a patent by the making, using or importation of any machine, apparatus or other article or by the using of any process or by the importation, use or distribution of any medicine or drug, it shall be a ground for defence that such making, using, importation or distribution is in accordance with any one or more of the conditions specified in section 47.",
+      "citations": [],
+      "keywords": ["defence", "infringement suit", "revocation as defence"]
+    },
+    {
+      "number": "108",
+      "title": "Reliefs in suits for infringement",
+      "content": "The reliefs which a court may grant in any suit for infringement include an injunction (subject to such terms, if any, as the court thinks fit) and, at the option of the plaintiff, either damages or an account of profits. The court may also order that the goods which are found to be infringing and materials and implement, the predominant use of which is in the creation of infringing goods shall be seized, forfeited or destroyed, as the court deems fit under the circumstances of the case without payment of any compensation.",
+      "citations": [],
+      "keywords": ["reliefs", "injunction", "damages", "account of profits"]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "act": "Code of Civil Procedure, 1908",
+  "short_title": "CPC",
+  "year": 1908,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "9",
+      "title": "Courts to try all civil suits unless barred",
+      "content": "The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred.",
+      "citations": ["Dhulabhai v. State of M.P., AIR 1969 SC 78"],
+      "keywords": ["civil jurisdiction", "civil suit", "exclusion of jurisdiction"]
+    },
+    {
+      "number": "10",
+      "title": "Stay of suit",
+      "content": "No Court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, or between parties under whom they or any of them claim litigating under the same title where such suit is pending in the same or any other Court in India having jurisdiction to grant the relief claimed.",
+      "citations": [],
+      "keywords": ["stay of suit", "res sub judice", "lis pendens"]
+    },
+    {
+      "number": "11",
+      "title": "Res judicata",
+      "content": "No Court shall try any suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit between the same parties, or between parties under whom they or any of them claim, litigating under the same title, in a Court competent to try such subsequent suit or the suit in which such issue has been subsequently raised, and has been heard and finally decided by such Court.",
+      "citations": ["Satyadhyan Ghosal v. Deorajin Debi, AIR 1960 SC 941"],
+      "keywords": ["res judicata", "final judgment", "estoppel"]
+    },
+    {
+      "number": "20",
+      "title": "Other suits to be instituted where defendants reside or cause of action arises",
+      "content": "Subject to the limitations aforesaid, every suit shall be instituted in a Court within the local limits of whose jurisdiction the defendant, or each of the defendants where there are more than one, at the time of the commencement of the suit, actually and voluntarily resides, or carries on business, or personally works for gain; or any of the defendants, where there are more than one, at the time of the commencement of the suit, actually and voluntarily resides, or carries on business, or personally works for gain, provided that in such case either the leave of the Court is given, or the defendants who do not reside, or carry on business, or personally work for gain, as aforesaid, acquiesce in such institution; or the cause of action, wholly or in part, arises.",
+      "citations": [],
+      "keywords": ["jurisdiction", "cause of action", "place of suing", "where to file"]
+    },
+    {
+      "number": "80",
+      "title": "Notice before suit against Government",
+      "content": "No suit shall be instituted against the Government (including the Government of a State) or against a public officer in respect of any act purporting to be done by such public officer in his official capacity, until the expiration of two months next after notice in writing has been delivered to, or left at the office of, the appropriate officer, stating the cause of action, the name, description and place of residence of the plaintiff and the relief which he claims.",
+      "citations": [],
+      "keywords": ["section 80 notice", "suit against government", "notice"]
+    },
+    {
+      "number": "96",
+      "title": "Appeal from original decree",
+      "content": "Save where otherwise expressly provided in the body of this Code or by any other law for the time being in force, an appeal shall lie from every decree passed by any Court exercising original jurisdiction to the Court authorised to hear appeals from the decisions of such Court. An appeal may lie from an original decree passed ex parte. No appeal shall lie from a decree passed by the Court with the consent of parties.",
+      "citations": [],
+      "keywords": ["first appeal", "appeal from decree"]
+    },
+    {
+      "number": "100",
+      "title": "Second appeal",
+      "content": "Save as otherwise expressly provided in the body of this Code or by any other law for the time being in force, an appeal shall lie to the High Court from every decree passed in appeal by any Court subordinate to the High Court, if the High Court is satisfied that the case involves a substantial question of law.",
+      "citations": ["Chunilal V. Mehta v. Century Spinning, AIR 1962 SC 1314"],
+      "keywords": ["second appeal", "substantial question of law"]
+    },
+    {
+      "number": "151",
+      "title": "Saving of inherent powers of Court",
+      "content": "Nothing in this Code shall be deemed to limit or otherwise affect the inherent power of the Court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Court.",
+      "citations": [],
+      "keywords": ["inherent powers", "ends of justice", "abuse of process"]
+    },
+    {
+      "number": "Order 7 Rule 1",
+      "title": "Particulars to be contained in plaint",
+      "content": "The plaint shall contain the following particulars: the name of the Court in which the suit is brought; the name, description and place of residence of the plaintiff; the name, description and place of residence of the defendant, so far as they can be ascertained; where the plaintiff or defendant is a minor or person of unsound mind, a statement to that effect; the facts constituting the cause of action and when it arose; the facts showing that the Court has jurisdiction; the relief which the plaintiff claims; where the plaintiff has allowed a set-off or relinquished a portion of his claim, the amount so allowed or relinquished; a statement of the value of the subject-matter of the suit for the purposes of jurisdiction and of court-fees, so far as the case admits.",
+      "citations": [],
+      "keywords": ["plaint", "particulars", "cause of action", "Order 7"]
+    },
+    {
+      "number": "Order 8 Rule 1",
+      "title": "Written statement",
+      "content": "The defendant shall, within thirty days from the date of service of summons on him, present a written statement of his defence. Provided that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the same on such other day, as may be specified by the Court, for reasons to be recorded in writing, but which shall not be later than one hundred and twenty days from the date of service of summons.",
+      "citations": [],
+      "keywords": ["written statement", "WS", "defence", "Order 8"]
+    },
+    {
+      "number": "Order 39 Rule 1",
+      "title": "Cases in which temporary injunction may be granted",
+      "content": "Where in any suit it is proved by affidavit or otherwise that any property in dispute in a suit is in danger of being wasted, damaged or alienated by any party to the suit, or wrongfully sold in execution of a decree, or the defendant threatens, or intends, to remove or dispose of his property with a view to defrauding his creditors, or the defendant threatens to dispossess the plaintiff or otherwise cause injury to the plaintiff in relation to any property in dispute in the suit, the Court may by order grant a temporary injunction.",
+      "citations": [],
+      "keywords": ["temporary injunction", "interim relief", "Order 39"]
+    }
+  ]
+}

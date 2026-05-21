@@ -1,0 +1,78 @@
+{
+  "act": "Right to Information Act, 2005",
+  "short_title": "RTI Act",
+  "year": 2005,
+  "unit": "section",
+  "sections": [
+    {
+      "number": "2",
+      "title": "Definitions — information, public authority, right to information",
+      "content": "'Information' means any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, data material held in any electronic form. 'Public authority' means any authority or body or institution of self-government established or constituted by or under the Constitution, by any other law made by Parliament or by a State Legislature, by notification issued or order made by the appropriate Government, and includes any body owned, controlled or substantially financed, or non-Government organisation substantially financed, directly or indirectly by funds provided by the appropriate Government. 'Right to information' means the right to information accessible under this Act which is held by or under the control of any public authority and includes the right to inspection of work, documents, records, taking notes, extracts or certified copies of documents or records, taking certified samples of material, and obtaining information in the form of diskettes, floppies, tapes, video cassettes or in any other electronic mode or through printouts.",
+      "citations": [],
+      "keywords": ["information", "public authority", "right to information", "definitions"]
+    },
+    {
+      "number": "3",
+      "title": "Right to information",
+      "content": "Subject to the provisions of this Act, all citizens shall have the right to information.",
+      "citations": [],
+      "keywords": ["right to information", "citizens"]
+    },
+    {
+      "number": "4",
+      "title": "Obligations of public authorities",
+      "content": "Every public authority shall maintain all its records duly catalogued and indexed in a manner and the form which facilitates the right to information under this Act and shall publish certain categories of information suo motu, including the particulars of its organisation, functions and duties; the powers and duties of its officers and employees; the procedure followed in the decision making process; the norms set by it for the discharge of its functions; the rules, regulations, instructions, manuals and records held by it; a statement of the categories of documents that are held by it; the particulars of any arrangement that exists for consultation with members of the public; the budget allocated to each of its agency; the particulars of recipients of concessions, permits or authorisations granted by it.",
+      "citations": [],
+      "keywords": ["suo motu disclosure", "proactive disclosure", "obligations"]
+    },
+    {
+      "number": "6",
+      "title": "Request for obtaining information",
+      "content": "A person, who desires to obtain any information under this Act, shall make a request in writing or through electronic means in English or Hindi or in the official language of the area in which the application is being made, accompanying such fee as may be prescribed, to the Central Public Information Officer or State Public Information Officer of the concerned public authority, specifying the particulars of the information sought by him. Where such request cannot be made in writing, the Central Public Information Officer or State Public Information Officer, as the case may be, shall render all reasonable assistance to the person making the request orally to reduce the same in writing.",
+      "citations": [],
+      "keywords": ["RTI application", "information request", "PIO"]
+    },
+    {
+      "number": "7",
+      "title": "Disposal of request",
+      "content": "Subject to the proviso to sub-section (2) of section 5 or the proviso to sub-section (3) of section 6, the Central Public Information Officer or State Public Information Officer, as the case may be, on receipt of a request under section 6 shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed or reject the request for any of the reasons specified in sections 8 and 9. Where the information sought for concerns the life or liberty of a person, the same shall be provided within forty-eight hours of the receipt of the request.",
+      "citations": [],
+      "keywords": ["30 days", "disposal of RTI", "life and liberty", "48 hours"]
+    },
+    {
+      "number": "8",
+      "title": "Exemption from disclosure of information",
+      "content": "Notwithstanding anything contained in this Act, there shall be no obligation to give any citizen, information, disclosure of which would prejudicially affect the sovereignty and integrity of India, the security, strategic, scientific or economic interests of the State, relation with foreign State or lead to incitement of an offence; information which has been expressly forbidden to be published by any court of law or tribunal; information, the disclosure of which would cause a breach of privilege of Parliament or the State Legislature; information including commercial confidence, trade secrets or intellectual property; information available to a person in his fiduciary relationship; information received in confidence from a foreign Government; information which would impede the process of investigation or apprehension or prosecution of offenders; cabinet papers including records of deliberations of the Council of Ministers, Secretaries and other officers; information which relates to personal information the disclosure of which has no relationship to any public activity or interest, or which would cause unwarranted invasion of the privacy of the individual.",
+      "citations": [],
+      "keywords": ["exemptions", "exempted information", "Section 8", "privacy", "national security"]
+    },
+    {
+      "number": "18",
+      "title": "Powers and functions of Information Commissions",
+      "content": "Subject to the provisions of this Act, it shall be the duty of the Central Information Commission or State Information Commission, as the case may be, to receive and inquire into a complaint from any person who has been unable to submit a request to a Central Public Information Officer or State Public Information Officer, or who has been refused access to any information requested under this Act, or who has not been given a response to a request for information or access to information within the time limit specified under this Act, or who has been required to pay an amount of fee which he or she considers unreasonable, or who believes that he or she has been given incomplete, misleading or false information under this Act.",
+      "citations": [],
+      "keywords": ["CIC", "SIC", "Information Commission", "complaint"]
+    },
+    {
+      "number": "19",
+      "title": "Appeal",
+      "content": "Any person who, does not receive a decision within the time specified in sub-section (1) or clause (a) of sub-section (3) of section 7, or is aggrieved by a decision of the Central Public Information Officer or State Public Information Officer, as the case may be, may within thirty days from the expiry of such period or from the receipt of such a decision prefer an appeal to such officer who is senior in rank to the Central Public Information Officer or State Public Information Officer. A second appeal against the decision under sub-section (1) shall lie within ninety days from the date on which the decision should have been made or was actually received, with the Central Information Commission or the State Information Commission.",
+      "citations": [],
+      "keywords": ["first appeal", "second appeal", "appellate authority"]
+    },
+    {
+      "number": "20",
+      "title": "Penalties",
+      "content": "Where the Central Information Commission or the State Information Commission, as the case may be, at the time of deciding any complaint or appeal is of the opinion that the Central Public Information Officer or the State Public Information Officer, as the case may be, has, without any reasonable cause, refused to receive an application for information or has not furnished information within the time specified, or malafidely denied the request for information or knowingly given incorrect, incomplete or misleading information or destroyed information which was the subject of the request or obstructed in any manner in furnishing the information, it shall impose a penalty of two hundred and fifty rupees each day till application is received or information is furnished, so however, the total amount of such penalty shall not exceed twenty-five thousand rupees.",
+      "citations": [],
+      "keywords": ["penalty", "PIO penalty", "fine"]
+    },
+    {
+      "number": "22",
+      "title": "Act to have overriding effect",
+      "content": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Official Secrets Act, 1923, and any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.",
+      "citations": [],
+      "keywords": ["overriding effect", "Official Secrets Act"]
+    }
+  ]
+}

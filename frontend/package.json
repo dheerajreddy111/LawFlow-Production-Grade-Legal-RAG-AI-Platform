@@ -1,0 +1,51 @@
+{
+  "name": "lawflow-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "LawFlow — Next.js frontend for the Indian legal RAG platform.",
+  "author": {
+    "name": "Dheeraj Reddy Thumma",
+    "url": "https://github.com/dheerajreddy111"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dheerajreddy111/lawflow.git",
+    "directory": "frontend"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "gen:types": "openapi-typescript ../backend/openapi.json --output app/lib/admin/api.generated.ts",
+    "gen:types:full": "cd ../backend && python scripts/dump_openapi.py && cd ../frontend && npm run gen:types"
+  },
+  "dependencies": {
+    "@tanstack/react-table": "^8.21.3",
+    "@tanstack/react-virtual": "^3.13.24",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.39.0",
+    "lucide-react": "^1.16.0",
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-markdown": "^10.1.0",
+    "recharts": "^3.8.1",
+    "rehype-raw": "^7.0.0",
+    "rehype-sanitize": "^6.0.0",
+    "remark-gfm": "^4.0.1",
+    "tailwind-merge": "^3.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "openapi-typescript": "^7.13.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
