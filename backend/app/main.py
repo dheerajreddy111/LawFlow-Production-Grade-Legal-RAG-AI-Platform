@@ -116,9 +116,12 @@ def create_app() -> FastAPI:
         redoc_url="/redoc",
     )
 
+    # Temporary wildcard for deployment stabilization. Revert to
+    # settings.cors_origins once CORS_ORIGINS is configured on Railway with
+    # the Vercel domain.
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=settings.cors_origins,
+        allow_origins=["*"],
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],
